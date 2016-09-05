@@ -24,6 +24,8 @@ typedef enum OMColorType {
 	OMColorTypeNSWhiteDevice,		//[NSColor colorWithDeviceWhite:0.5 alpha:1.0]
 	OMColorTypeNSConstant,			//[NSColor redColor]
 	
+    OMColorTypeUIHex,               // [UIColor colorWithHex:0xFFFFFF]
+    OMColorTypeUIHexAlpha,          // [UIColor colorWithHex:0xFFFFFF alpha:0.5]
 } OMColorType;
 
 BOOL OMColorTypeIsNSColor(OMColorType colorType) { return colorType >= OMColorTypeNSRGBACalibrated; }
