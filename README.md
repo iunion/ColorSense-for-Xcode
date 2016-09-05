@@ -1,4 +1,23 @@
-# ColorSense for Xcode
+# Forked from [OMColorSense](https://github.com/omz/ColorSense-for-Xcode)
+
+This fork enables color sense for [UIColor colorWithHex:0xDA2626 alpha:0.5];
+
+```objc
++ (UIColor *)colorWithHex:(unsigned int)hex
+{
+	return [UIColor colorWithHex:hex alpha:1.0f];
+}
+
++ (UIColor *)colorWithHex:(unsigned int)hex alpha:(CGFloat)alpha
+{
+	return [UIColor colorWithRed:((float)((hex & 0xFF0000) >> 16)) / 255.0
+                           green:((float)((hex & 0xFF00) >> 8)) / 255.0
+                            blue:((float)(hex & 0xFF)) / 255.0
+                           alpha:alpha];
+}
+
+```
+
 
 ## Overview
 
