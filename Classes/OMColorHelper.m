@@ -339,6 +339,9 @@
 
 - (void)activateColorHighlighting
 {
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(selectionDidChange:) name:@"SourceEditorSelectedSourceRangeChangedNotification" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(selectionDidChange:) name:NSScrollViewWillStartLiveScrollNotification object:nil];
+
     if (!self.textView) {
         NSResponder *firstResponder = [[NSApp keyWindow] firstResponder];
         if ([firstResponder isKindOfClass:NSClassFromString(@"IDESourceEditor.IDESourceEditorView")]) {
@@ -348,18 +351,15 @@
     
     if (self.textView)
     {
-        NSNotification *notification = [NSNotification notificationWithName:NSTextDidChangeNotification object:self.textView];
+        NSNotification *notification = [NSNotification notificationWithName:@"SourceEditorSelectedSourceRangeChangedNotification" object:self.textView];
         [self selectionDidChange:notification];
-    }
-    else
-    {
-        [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(selectionDidChange:) name:nil object:nil];
     }
 }
 
 - (void)deactivateColorHighlighting
 {
-	[[NSNotificationCenter defaultCenter] removeObserver:self name:NSTextViewDidChangeSelectionNotification object:nil];
+    [[NSNotificationCenter defaultCenter] removeObserver:self name:@"SourceEditorSelectedSourceRangeChangedNotification" object:nil];
+    [[NSNotificationCenter defaultCenter] removeObserver:self name:NSScrollViewWillStartLiveScrollNotification object:nil];
 	[self dismissColorWell];
 	//self.textView = nil;
 }
@@ -422,11 +422,6 @@
     
     if ([clasName isEqualToString:@"IDESourceEditor.IDESourceEditorView"])
     {
-        for (NSView *sview in view.subviews)
-        {
-            NSString *clasName1 = sview.className;
-            NSLog(@"%@", clasName1);
-        }
 
         self.textView = (_TtC15IDESourceEditor19IDESourceEditorView *)[notification object];
 		
