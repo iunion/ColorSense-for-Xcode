@@ -22,6 +22,420 @@
 		7F6EE2BE15FA6F3B00BA114A /* OMColorFrameView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OMColorFrameView.m; sourceTree = "<group>"; };
 		7FDADE3815FA6CA400A847E3 /* OMPlainColorWell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OMPlainColorWell.h; sourceTree = "<group>"; };
 		7FDADE3915FA6CA400A847E3 /* OMPlainColorWell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OMPlainColorWell.m; sourceTree = "<group>"; };
+		87FA222B20DB8B02004A5338 /* _TtCC15DVTSourceEditor22EditorSourceKitServiceP33_67BEF26930717E2ED8344466E25DFE5F17RequestDispatcher.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC15DVTSourceEditor22EditorSourceKitServiceP33_67BEF26930717E2ED8344466E25DFE5F17RequestDispatcher.h; sourceTree = "<group>"; };
+		87FA222C20DB8B02004A5338 /* DVTFindPatternManager-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTFindPatternManager-Protocol.h"; sourceTree = "<group>"; };
+		87FA222D20DB8B02004A5338 /* _TtC15DVTSourceEditor25DVTSourceEditorMarkupView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor25DVTSourceEditorMarkupView.h; sourceTree = "<group>"; };
+		87FA222E20DB8B02004A5338 /* __T012SourceEditor0aB6GutterCN-DVTSourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "__T012SourceEditor0aB6GutterCN-DVTSourceEditor.h"; sourceTree = "<group>"; };
+		87FA222F20DB8B02004A5338 /* DVTSourceEditorPatternSearchField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DVTSourceEditorPatternSearchField.h; sourceTree = "<group>"; };
+		87FA223020DB8B02004A5338 /* _TtC15DVTSourceEditorP33_97DC68711F590B15DCBEF5DB87A725AD32SourceCodeDiffDataSourceObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditorP33_97DC68711F590B15DCBEF5DB87A725AD32SourceCodeDiffDataSourceObserver.h; sourceTree = "<group>"; };
+		87FA223120DB8B02004A5338 /* _TtC15DVTSourceEditor23DVTSourceEditorLandmark.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor23DVTSourceEditorLandmark.h; sourceTree = "<group>"; };
+		87FA223220DB8B02004A5338 /* _TtC15DVTSourceEditor26DVTSourceEditorLanguageSet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor26DVTSourceEditorLanguageSet.h; sourceTree = "<group>"; };
+		87FA223320DB8B02004A5338 /* DVTSourceEditorPatternSearchFieldCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DVTSourceEditorPatternSearchFieldCell.h; sourceTree = "<group>"; };
+		87FA223420DB8B02004A5338 /* _TtC15DVTSourceEditor27DVTSourceEditorMarkupStyles.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor27DVTSourceEditorMarkupStyles.h; sourceTree = "<group>"; };
+		87FA223520DB8B02004A5338 /* DVTInvalidation-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTInvalidation-Protocol.h"; sourceTree = "<group>"; };
+		87FA223620DB8B02004A5338 /* _TtC15DVTSourceEditor22EditorSourceKitService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor22EditorSourceKitService.h; sourceTree = "<group>"; };
+		87FA223720DB8B02004A5338 /* DVTSourceEditorFindPatternPanel-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceEditorFindPatternPanel-Protocol.h"; sourceTree = "<group>"; };
+		87FA223820DB8B02004A5338 /* _TtC15DVTSourceEditor28DVTSourceEditorTextFindPanel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor28DVTSourceEditorTextFindPanel.h; sourceTree = "<group>"; };
+		87FA223920DB8B02004A5338 /* _TtC15DVTSourceEditor20DVTSourceEditorTheme.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor20DVTSourceEditorTheme.h; sourceTree = "<group>"; };
+		87FA223A20DB8B02004A5338 /* DVTUndoManagerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTUndoManagerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA223B20DB8B02004A5338 /* DVTFindPatternField-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTFindPatternField-Protocol.h"; sourceTree = "<group>"; };
+		87FA223C20DB8B02004A5338 /* __T012SourceEditor0ab4DataA0CN-DVTSourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "__T012SourceEditor0ab4DataA0CN-DVTSourceEditor.h"; sourceTree = "<group>"; };
+		87FA223D20DB8B02004A5338 /* CDStructures.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CDStructures.h; sourceTree = "<group>"; };
+		87FA223E20DB8B02004A5338 /* NSPrintPanelAccessorizing-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSPrintPanelAccessorizing-Protocol.h"; sourceTree = "<group>"; };
+		87FA223F20DB8B02004A5338 /* _TtC15DVTSourceEditor28DVTSourceEditorTextFindField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor28DVTSourceEditorTextFindField.h; sourceTree = "<group>"; };
+		87FA224020DB8B02004A5338 /* DVTUndo-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTUndo-Protocol.h"; sourceTree = "<group>"; };
+		87FA224120DB8B02004A5338 /* DVTTextSidebar-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextSidebar-Protocol.h"; sourceTree = "<group>"; };
+		87FA224220DB8B02004A5338 /* NSObject-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject-Protocol.h"; sourceTree = "<group>"; };
+		87FA224320DB8B02004A5338 /* _TtC15DVTSourceEditor26DVTSourceEditorUndoManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor26DVTSourceEditorUndoManager.h; sourceTree = "<group>"; };
+		87FA224420DB8B02004A5338 /* _TtC15DVTSourceEditor32DVTSourceEditorTextFindFieldCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor32DVTSourceEditorTextFindFieldCell.h; sourceTree = "<group>"; };
+		87FA224520DB8B02004A5338 /* _TtC15DVTSourceEditor26DVTPegasusSourceEditorView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor26DVTPegasusSourceEditorView.h; sourceTree = "<group>"; };
+		87FA224620DB8B02004A5338 /* _TtP12SourceEditor34SourceEditorTextFindPanelFieldType_-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtP12SourceEditor34SourceEditorTextFindPanelFieldType_-Protocol.h"; sourceTree = "<group>"; };
+		87FA224720DB8B02004A5338 /* DVTSourceLandmarkItemProtocol-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceLandmarkItemProtocol-Protocol.h"; sourceTree = "<group>"; };
+		87FA224820DB8B02004A5338 /* NSCopying-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSCopying-Protocol.h"; sourceTree = "<group>"; };
+		87FA224920DB8B02004A5338 /* _TtC15DVTSourceEditor44DVTSourceEditorPrintPanelAccessoryController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor44DVTSourceEditorPrintPanelAccessoryController.h; sourceTree = "<group>"; };
+		87FA224A20DB8B02004A5338 /* _TtC15DVTSourceEditor29DVTSourceEditorDiffDataSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15DVTSourceEditor29DVTSourceEditorDiffDataSource.h; sourceTree = "<group>"; };
+		87FA224B20DB8B02004A5338 /* _TtC15DVTSourceEditor23DVTSourceEditorLandmark-DVTSourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15DVTSourceEditor23DVTSourceEditorLandmark-DVTSourceEditor.h"; sourceTree = "<group>"; };
+		87FA224C20DB8B02004A5338 /* DVTLineRangeCharacterRangeConverter-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTLineRangeCharacterRangeConverter-Protocol.h"; sourceTree = "<group>"; };
+		87FA224E20DB8B02004A5338 /* DVTTextFindable-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextFindable-Protocol.h"; sourceTree = "<group>"; };
+		87FA224F20DB8B02004A5338 /* IDEURLHandler-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEURLHandler-Protocol.h"; sourceTree = "<group>"; };
+		87FA225020DB8B02004A5338 /* IDESourceControlBlameForLineEditor-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceControlBlameForLineEditor-Protocol.h"; sourceTree = "<group>"; };
+		87FA225120DB8B02004A5338 /* DVTAnnotationManagerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTAnnotationManagerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA225220DB8B02004A5338 /* IDECodeSnippetLibraryDetailEditorController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetLibraryDetailEditorController.h; sourceTree = "<group>"; };
+		87FA225320DB8B02004A5338 /* _TtC15IDESourceEditor32SourceCodeInvocationGeniusResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor32SourceCodeInvocationGeniusResult.h; sourceTree = "<group>"; };
+		87FA225420DB8B02004A5338 /* _TtC15IDESourceEditor29SourceCodeEditorDFRController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor29SourceCodeEditorDFRController.h; sourceTree = "<group>"; };
+		87FA225520DB8B02004A5338 /* __T015DVTSourceEditor0aB8LandmarkCN-IDESourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "__T015DVTSourceEditor0aB8LandmarkCN-IDESourceEditor.h"; sourceTree = "<group>"; };
+		87FA225620DB8B02004A5338 /* _TtC15IDESourceEditor24CodeRollSourceEditorView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor24CodeRollSourceEditorView.h; sourceTree = "<group>"; };
+		87FA225720DB8B02004A5338 /* IDEBreakpointObserver-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEBreakpointObserver-Protocol.h"; sourceTree = "<group>"; };
+		87FA225820DB8B02004A5338 /* _TtC15IDESourceEditor24CodeRollDocumentLocation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor24CodeRollDocumentLocation.h; sourceTree = "<group>"; };
+		87FA225920DB8B02004A5338 /* _TtC15IDESourceEditorP33_D9F7DEA52371DE60B1D00820C5602ED419TextAnnotationLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_D9F7DEA52371DE60B1D00820C5602ED419TextAnnotationLayer.h; sourceTree = "<group>"; };
+		87FA225A20DB8B02004A5338 /* IDEComparisonEditorScrollerAreaView-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEComparisonEditorScrollerAreaView-Protocol.h"; sourceTree = "<group>"; };
+		87FA225B20DB8B02004A5338 /* _TtC15IDESourceEditor45SourceCodeInvocationGeniusResultNavigableItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor45SourceCodeInvocationGeniusResultNavigableItem.h; sourceTree = "<group>"; };
+		87FA225C20DB8B02004A5338 /* _TtC15IDESourceEditor41IDEVersionEditorPrivateSourceCodeDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor41IDEVersionEditorPrivateSourceCodeDocument.h; sourceTree = "<group>"; };
+		87FA225D20DB8B02004A5338 /* _TtC15IDESourceEditorP33_D9F7DEA52371DE60B1D00820C5602ED425BreakpointAnnotationLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_D9F7DEA52371DE60B1D00820C5602ED425BreakpointAnnotationLayer.h; sourceTree = "<group>"; };
+		87FA225E20DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor1.h"; sourceTree = "<group>"; };
+		87FA225F20DB8B02004A5338 /* _TtC15IDESourceEditor19RefactoringDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor19RefactoringDelegate.h; sourceTree = "<group>"; };
+		87FA226020DB8B02004A5338 /* _TtC15IDESourceEditor12ChangeGutter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor12ChangeGutter.h; sourceTree = "<group>"; };
+		87FA226120DB8B02004A5338 /* _TtC15IDESourceEditor15RenameOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor15RenameOperation.h; sourceTree = "<group>"; };
+		87FA226220DB8B02004A5338 /* _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D29ChangeGutterMarginContentView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D29ChangeGutterMarginContentView.h; sourceTree = "<group>"; };
+		87FA226320DB8B02004A5338 /* NSTextStorageDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTextStorageDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA226420DB8B02004A5338 /* DVTSourceLanguagePrimaryCompletionStrategy-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceLanguagePrimaryCompletionStrategy-Protocol.h"; sourceTree = "<group>"; };
+		87FA226520DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor1.h"; sourceTree = "<group>"; };
+		87FA226620DB8B02004A5338 /* __T012SourceEditor0aB4ViewCN-IDESourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "__T012SourceEditor0aB4ViewCN-IDESourceEditor.h"; sourceTree = "<group>"; };
+		87FA226720DB8B02004A5338 /* IDETestsInFileObserver-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDETestsInFileObserver-Protocol.h"; sourceTree = "<group>"; };
+		87FA226820DB8B02004A5338 /* _TtC15IDESourceEditor24CrossLanguageRenameRules.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor24CrossLanguageRenameRules.h; sourceTree = "<group>"; };
+		87FA226920DB8B02004A5338 /* DVTCompletingTextViewDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTCompletingTextViewDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA226A20DB8B02004A5338 /* _TtC15IDESourceEditor29CodeRollSymbolicEditSliceCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor29CodeRollSymbolicEditSliceCell.h; sourceTree = "<group>"; };
+		87FA226B20DB8B02004A5338 /* IDEComparisonEditorHostContext-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEComparisonEditorHostContext-Protocol.h"; sourceTree = "<group>"; };
+		87FA226C20DB8B02004A5338 /* _TtC15IDESourceEditor30SourceCodeQuickHelpDataContext.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor30SourceCodeQuickHelpDataContext.h; sourceTree = "<group>"; };
+		87FA226D20DB8B02004A5338 /* DVTSourceModelProvider-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceModelProvider-Protocol.h"; sourceTree = "<group>"; };
+		87FA226E20DB8B02004A5338 /* DVTFileLiteralQuickEditViewControllerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTFileLiteralQuickEditViewControllerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA226F20DB8B02004A5338 /* _TtC15IDESourceEditor33SourceCodeDiagnosticIssueProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor33SourceCodeDiagnosticIssueProvider.h; sourceTree = "<group>"; };
+		87FA227020DB8B02004A5338 /* _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D11ChangeLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D11ChangeLayer.h; sourceTree = "<group>"; };
+		87FA227120DB8B02004A5338 /* IDECodeSnippetLibraryCompletionStrategy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetLibraryCompletionStrategy.h; sourceTree = "<group>"; };
+		87FA227220DB8B02004A5338 /* IDECodeSnippetCompletionScopeRowController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetCompletionScopeRowController.h; sourceTree = "<group>"; };
+		87FA227320DB8B02004A5338 /* DVTTextReplacable-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextReplacable-Protocol.h"; sourceTree = "<group>"; };
+		87FA227420DB8B02004A5338 /* IDECodeSnippetRepository.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetRepository.h; sourceTree = "<group>"; };
+		87FA227520DB8B02004A5338 /* _TtC15IDESourceEditor37AutoLayoutSyncedControllerContentView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor37AutoLayoutSyncedControllerContentView.h; sourceTree = "<group>"; };
+		87FA227620DB8B02004A5338 /* _TtCC15IDESourceEditor19IDESourceEditorViewP33_373B789CDC21EB66DE67A005A575163736SwiftTrickingCancelHoldingClassThing.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC15IDESourceEditor19IDESourceEditorViewP33_373B789CDC21EB66DE67A005A575163736SwiftTrickingCancelHoldingClassThing.h; sourceTree = "<group>"; };
+		87FA227720DB8B02004A5338 /* IDETestingSelection-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDETestingSelection-Protocol.h"; sourceTree = "<group>"; };
+		87FA227820DB8B02004A5338 /* DVTTextInsertionPointLocator-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextInsertionPointLocator-Protocol.h"; sourceTree = "<group>"; };
+		87FA227920DB8B02004A5338 /* _TtC15IDESourceEditor27JumpToCallersActionMenuItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor27JumpToCallersActionMenuItem.h; sourceTree = "<group>"; };
+		87FA227A20DB8B02004A5338 /* _TtC15IDESourceEditor26SourceTagNavigationHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor26SourceTagNavigationHandler.h; sourceTree = "<group>"; };
+		87FA227B20DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor18SourceCodeDocument.h; sourceTree = "<group>"; };
+		87FA227C20DB8B02004A5338 /* DVTTextStorageDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextStorageDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA227D20DB8B02004A5338 /* _TtC15IDESourceEditor30CodeRollSourceEditorScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor30CodeRollSourceEditorScrollView.h; sourceTree = "<group>"; };
+		87FA227E20DB8B02004A5338 /* IDESourceKitRefactoringEdit-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceKitRefactoringEdit-Protocol.h"; sourceTree = "<group>"; };
+		87FA227F20DB8B02004A5338 /* _TtC15IDESourceEditorP33_3D16E535F05923485BACC5F644BB596242SourceCodeDocumentLanguageServiceExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_3D16E535F05923485BACC5F644BB596242SourceCodeDocumentLanguageServiceExtension.h; sourceTree = "<group>"; };
+		87FA228020DB8B02004A5338 /* _TtC15IDESourceEditor15CodeRollNavItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor15CodeRollNavItem.h; sourceTree = "<group>"; };
+		87FA228120DB8B02004A5338 /* IDESingleFileCommandSupportingEditor-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESingleFileCommandSupportingEditor-Protocol.h"; sourceTree = "<group>"; };
+		87FA228220DB8B02004A5338 /* _TtC15IDESourceEditor17RefactoringResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor17RefactoringResult.h; sourceTree = "<group>"; };
+		87FA228320DB8B02004A5338 /* IDECodeSnippetCompletionItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetCompletionItem.h; sourceTree = "<group>"; };
+		87FA228420DB8B02004A5338 /* IDEMediaLibraryDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEMediaLibraryDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA228520DB8B02004A5338 /* _TtC15IDESourceEditor34SourceCodeIndexGeniusResultsFinder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor34SourceCodeIndexGeniusResultsFinder.h; sourceTree = "<group>"; };
+		87FA228620DB8B02004A5338 /* __T012SourceEditor0aB11ContentViewCN-IDESourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "__T012SourceEditor0aB11ContentViewCN-IDESourceEditor.h"; sourceTree = "<group>"; };
+		87FA228720DB8B02004A5338 /* _TtC15IDESourceEditor15FlippedClipView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor15FlippedClipView.h; sourceTree = "<group>"; };
+		87FA228820DB8B02004A5338 /* IDESourceKitRefactoringDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceKitRefactoringDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA228920DB8B02004A5338 /* _TtC15IDESourceEditor19CodeRollNavItemRoot.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor19CodeRollNavItemRoot.h; sourceTree = "<group>"; };
+		87FA228A20DB8B02004A5338 /* IDETestObserver-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDETestObserver-Protocol.h"; sourceTree = "<group>"; };
+		87FA228B20DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor2.h"; sourceTree = "<group>"; };
+		87FA228C20DB8B02004A5338 /* DVTCancellable-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTCancellable-Protocol.h"; sourceTree = "<group>"; };
+		87FA228D20DB8B02004A5338 /* IDEIssueLogDataSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEIssueLogDataSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA228E20DB8B02004A5338 /* SourceCodeAdjustNodeTypesRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceCodeAdjustNodeTypesRequest.h; sourceTree = "<group>"; };
+		87FA228F20DB8B02004A5338 /* IDESourceKitUnhandledURLSymbolInfo-IDESourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceKitUnhandledURLSymbolInfo-IDESourceEditor.h"; sourceTree = "<group>"; };
+		87FA229020DB8B02004A5338 /* DVTInvalidation-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTInvalidation-Protocol.h"; sourceTree = "<group>"; };
+		87FA229120DB8B02004A5338 /* _TtC15IDESourceEditor43SourceCodeCallersCalleesGeniusResultsFinder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor43SourceCodeCallersCalleesGeniusResultsFinder.h; sourceTree = "<group>"; };
+		87FA229220DB8B02004A5338 /* IDEQuickHelpDataContext-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEQuickHelpDataContext-Protocol.h"; sourceTree = "<group>"; };
+		87FA229320DB8B02004A5338 /* _TtC15IDESourceEditor31StructuredEditingActionMenuItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor31StructuredEditingActionMenuItem.h; sourceTree = "<group>"; };
+		87FA229420DB8B02004A5338 /* _TtC15IDESourceEditor21CodeRollFileReference.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor21CodeRollFileReference.h; sourceTree = "<group>"; };
+		87FA229520DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor2.h"; sourceTree = "<group>"; };
+		87FA229620DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor.h"; sourceTree = "<group>"; };
+		87FA229720DB8B02004A5338 /* _TtC15IDESourceEditorP33_93442D23FB9091BE5367B1441DFDFFEA23StaticAnalyzerStepLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_93442D23FB9091BE5367B1441DFDFFEA23StaticAnalyzerStepLayer.h; sourceTree = "<group>"; };
+		87FA229820DB8B02004A5338 /* _TtC15IDESourceEditor25CodeRollSymbolicEditSlice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor25CodeRollSymbolicEditSlice.h; sourceTree = "<group>"; };
+		87FA229920DB8B02004A5338 /* DVTSourceTextViewDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceTextViewDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA229A20DB8B02004A5338 /* NSTableViewDataSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTableViewDataSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA229B20DB8B02004A5338 /* IDERenameRefactoringChange-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDERenameRefactoringChange-Protocol.h"; sourceTree = "<group>"; };
+		87FA229C20DB8B02004A5338 /* _TtC15IDESourceEditor14CodeRollEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor14CodeRollEditor.h; sourceTree = "<group>"; };
+		87FA229D20DB8B02004A5338 /* _TtC15IDESourceEditor11RenameLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor11RenameLabel.h; sourceTree = "<group>"; };
+		87FA229E20DB8B02004A5338 /* NSTableViewDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTableViewDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA229F20DB8B02004A5338 /* DVTCharacterRangeFrameConverter-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTCharacterRangeFrameConverter-Protocol.h"; sourceTree = "<group>"; };
+		87FA22A020DB8B02004A5338 /* IDECodeSnippet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippet.h; sourceTree = "<group>"; };
+		87FA22A120DB8B02004A5338 /* DVTSourceEditorFindPatternPanel-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceEditorFindPatternPanel-Protocol.h"; sourceTree = "<group>"; };
+		87FA22A220DB8B02004A5338 /* DVTTextDocumentLocationCharacterRangeConverter-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextDocumentLocationCharacterRangeConverter-Protocol.h"; sourceTree = "<group>"; };
+		87FA22A320DB8B02004A5338 /* DVTSourceExpressionSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceExpressionSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA22A420DB8B02004A5338 /* IDECodeSnippetCompletionItemInfoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetCompletionItemInfoViewController.h; sourceTree = "<group>"; };
+		87FA22A520DB8B02004A5338 /* IDESelectionSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESelectionSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA22A620DB8B02004A5338 /* DVTMarkedScrollerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTMarkedScrollerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22A720DB8B02004A5338 /* IDECodeLibraryLegacyDetailController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeLibraryLegacyDetailController.h; sourceTree = "<group>"; };
+		87FA22A820DB8B02004A5338 /* IDECodeSnippetLibraryPlatformFamilyValueTransformer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetLibraryPlatformFamilyValueTransformer.h; sourceTree = "<group>"; };
+		87FA22A920DB8B02004A5338 /* NSMenuDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSMenuDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22AA20DB8B02004A5338 /* IDESourceControlWorkingCopyObserver-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceControlWorkingCopyObserver-Protocol.h"; sourceTree = "<group>"; };
+		87FA22AB20DB8B02004A5338 /* _TtC15IDESourceEditor16SourceCodeEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor16SourceCodeEditor.h; sourceTree = "<group>"; };
+		87FA22AC20DB8B02004A5338 /* _TtC15IDESourceEditor30JumpToDefinitionActionMenuItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor30JumpToDefinitionActionMenuItem.h; sourceTree = "<group>"; };
+		87FA22AD20DB8B02004A5338 /* _TtC15IDESourceEditor39StructuredSelectionActionMenuController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor39StructuredSelectionActionMenuController.h; sourceTree = "<group>"; };
+		87FA22AE20DB8B02004A5338 /* _TtP9DVTMarkup28PlaygroundMarkupViewDelegate_-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtP9DVTMarkup28PlaygroundMarkupViewDelegate_-Protocol.h"; sourceTree = "<group>"; };
+		87FA22AF20DB8B02004A5338 /* _TtC15IDESourceEditor20RenameTransformation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor20RenameTransformation.h; sourceTree = "<group>"; };
+		87FA22B020DB8B02004A5338 /* IDEDocumentStructureProviding-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEDocumentStructureProviding-Protocol.h"; sourceTree = "<group>"; };
+		87FA22B120DB8B02004A5338 /* IDESourceKitRenameRangeGroup-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceKitRenameRangeGroup-Protocol.h"; sourceTree = "<group>"; };
+		87FA22B220DB8B02004A5338 /* IDESourceKitRefactoringFileRenameRanges-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceKitRefactoringFileRenameRanges-Protocol.h"; sourceTree = "<group>"; };
+		87FA22B320DB8B02004A5338 /* _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D22ChangeGutterMarginView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D22ChangeGutterMarginView.h; sourceTree = "<group>"; };
+		87FA22B420DB8B02004A5338 /* _TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor.h"; sourceTree = "<group>"; };
+		87FA22B520DB8B02004A5338 /* DVTSourceCodeComparisonTextView-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceCodeComparisonTextView-Protocol.h"; sourceTree = "<group>"; };
+		87FA22B620DB8B02004A5338 /* _TtC15IDESourceEditorP33_CFC320F47CD995772665919FCD2902BC30ScrollAvoidingSubstitutionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_CFC320F47CD995772665919FCD2902BC30ScrollAvoidingSubstitutionView.h; sourceTree = "<group>"; };
+		87FA22B720DB8B02004A5338 /* _TtC15IDESourceEditor25RefactoringActionMenuItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor25RefactoringActionMenuItem.h; sourceTree = "<group>"; };
+		87FA22B820DB8B02004A5338 /* IDECodeSnippetCompletionScopeRowValue.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetCompletionScopeRowValue.h; sourceTree = "<group>"; };
+		87FA22B920DB8B02004A5338 /* CDStructures.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CDStructures.h; sourceTree = "<group>"; };
+		87FA22BA20DB8B02004A5338 /* IDETestablesObserver-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDETestablesObserver-Protocol.h"; sourceTree = "<group>"; };
+		87FA22BB20DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor3.h"; sourceTree = "<group>"; };
+		87FA22BC20DB8B02004A5338 /* DVTTextAnnotationDisplayDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextAnnotationDisplayDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22BD20DB8B02004A5338 /* IDECodeLibraryDetailController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeLibraryDetailController.h; sourceTree = "<group>"; };
+		87FA22BE20DB8B02004A5338 /* _TtC15IDESourceEditor16CodeRollDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor16CodeRollDocument.h; sourceTree = "<group>"; };
+		87FA22BF20DB8B02004A5338 /* _TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor2.h"; sourceTree = "<group>"; };
+		87FA22C020DB8B02004A5338 /* IDESourceKitAvailableRefactoring-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceKitAvailableRefactoring-Protocol.h"; sourceTree = "<group>"; };
+		87FA22C120DB8B02004A5338 /* IDESourceExpressionSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceExpressionSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA22C220DB8B02004A5338 /* IDESourceKitRenameRange-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceKitRenameRange-Protocol.h"; sourceTree = "<group>"; };
+		87FA22C320DB8B02004A5338 /* IDENoteAnnotationExplorableItem-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDENoteAnnotationExplorableItem-Protocol.h"; sourceTree = "<group>"; };
+		87FA22C420DB8B02004A5338 /* IDESourceControlBlameForLineEditorDataSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceControlBlameForLineEditorDataSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA22C520DB8B02004A5338 /* IDEAnalyzerResultsHostingEditor-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEAnalyzerResultsHostingEditor-Protocol.h"; sourceTree = "<group>"; };
+		87FA22C620DB8B02004A5338 /* IDEIndexable-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEIndexable-Protocol.h"; sourceTree = "<group>"; };
+		87FA22C720DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor3.h"; sourceTree = "<group>"; };
+		87FA22C820DB8B02004A5338 /* _TtC15IDESourceEditor24NavigationActionMenuItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor24NavigationActionMenuItem.h; sourceTree = "<group>"; };
+		87FA22C920DB8B02004A5338 /* NSTextViewDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTextViewDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22CA20DB8B02004A5338 /* NSPathCellDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSPathCellDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22CB20DB8B02004A5338 /* IDERefactoringTransformation-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDERefactoringTransformation-Protocol.h"; sourceTree = "<group>"; };
+		87FA22CC20DB8B02004A5338 /* SourceCodeAdjustNodeTypesResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceCodeAdjustNodeTypesResult.h; sourceTree = "<group>"; };
+		87FA22CD20DB8B02004A5338 /* IDEPathCellDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEPathCellDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22CE20DB8B02004A5338 /* NSTextDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTextDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22CF20DB8B02004A5338 /* _TtC15IDESourceEditorP33_E44BFBDE090BC90056BC41FC200A6A7040PathTokenVisualizationDataSourceObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_E44BFBDE090BC90056BC41FC200A6A7040PathTokenVisualizationDataSourceObserver.h; sourceTree = "<group>"; };
+		87FA22D020DB8B02004A5338 /* DVTTextCompletionItem-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextCompletionItem-Protocol.h"; sourceTree = "<group>"; };
+		87FA22D120DB8B02004A5338 /* DVTUndo-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTUndo-Protocol.h"; sourceTree = "<group>"; };
+		87FA22D220DB8B02004A5338 /* _TtC15IDESourceEditor21CodeRollFileNameSlice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor21CodeRollFileNameSlice.h; sourceTree = "<group>"; };
+		87FA22D320DB8B02004A5338 /* QuickHelpForceTouchController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuickHelpForceTouchController.h; sourceTree = "<group>"; };
+		87FA22D420DB8B02004A5338 /* DVTColorLiteralQuickEditViewControllerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTColorLiteralQuickEditViewControllerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22D520DB8B02004A5338 /* _TtC15IDESourceEditor21RefactoringController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor21RefactoringController.h; sourceTree = "<group>"; };
+		87FA22D620DB8B02004A5338 /* DVTSourceCodeLanguageEditorView-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceCodeLanguageEditorView-Protocol.h"; sourceTree = "<group>"; };
+		87FA22D720DB8B02004A5338 /* SourceEditorPathTokenLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceEditorPathTokenLayer.h; sourceTree = "<group>"; };
+		87FA22D820DB8B02004A5338 /* DVTSourceCodeComparisonTextEditorView-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceCodeComparisonTextEditorView-Protocol.h"; sourceTree = "<group>"; };
+		87FA22D920DB8B02004A5338 /* _TtC15IDESourceEditorP33_51980A944E37C09F475AE6788DE7E47F31SourceCodeTestClassGeniusResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditorP33_51980A944E37C09F475AE6788DE7E47F31SourceCodeTestClassGeniusResult.h; sourceTree = "<group>"; };
+		87FA22DA20DB8B02004A5338 /* _TtC15IDESourceEditor17CodeRollFileSlice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor17CodeRollFileSlice.h; sourceTree = "<group>"; };
+		87FA22DB20DB8B02004A5338 /* _TtC15IDESourceEditor20EmbeddableScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor20EmbeddableScrollView.h; sourceTree = "<group>"; };
+		87FA22DC20DB8B02004A5338 /* IDEKeyDrivenNavigableItemRepresentedObject-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEKeyDrivenNavigableItemRepresentedObject-Protocol.h"; sourceTree = "<group>"; };
+		87FA22DD20DB8B02004A5338 /* _TtC15IDESourceEditor22PathTokenVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor22PathTokenVisualization.h; sourceTree = "<group>"; };
+		87FA22DE20DB8B02004A5338 /* IDEBuildable-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEBuildable-Protocol.h"; sourceTree = "<group>"; };
+		87FA22DF20DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor4.h"; sourceTree = "<group>"; };
+		87FA22E020DB8B02004A5338 /* IDESourceCodeGenerationDestination-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceCodeGenerationDestination-Protocol.h"; sourceTree = "<group>"; };
+		87FA22E120DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor19IDESourceEditorView.h; sourceTree = "<group>"; };
+		87FA22E220DB8B02004A5338 /* DVTSourceControlCancellable-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceControlCancellable-Protocol.h"; sourceTree = "<group>"; };
+		87FA22E320DB8B02004A5338 /* _TtC15IDESourceEditor31StaticAnalyzerStepVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor31StaticAnalyzerStepVisualization.h; sourceTree = "<group>"; };
+		87FA22E420DB8B02004A5338 /* NSControlTextEditingDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSControlTextEditingDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22E520DB8B02004A5338 /* NSObject-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject-Protocol.h"; sourceTree = "<group>"; };
+		87FA22E620DB8B02004A5338 /* _TtC15IDESourceEditor37IDECodeLibraryPegasusDetailController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor37IDECodeLibraryPegasusDetailController.h; sourceTree = "<group>"; };
+		87FA22E720DB8B02004A5338 /* IDESourceKitRefactoringFileEdits-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceKitRefactoringFileEdits-Protocol.h"; sourceTree = "<group>"; };
+		87FA22E820DB8B02004A5338 /* DVTSourceLandmarkItemContainer-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceLandmarkItemContainer-Protocol.h"; sourceTree = "<group>"; };
+		87FA22E920DB8B02004A5338 /* _TtC15IDESourceEditor23CodeRollNavItemProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor23CodeRollNavItemProvider.h; sourceTree = "<group>"; };
+		87FA22EA20DB8B02004A5338 /* _TtC15IDESourceEditor25CodeRollSymbolicFileSlice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor25CodeRollSymbolicFileSlice.h; sourceTree = "<group>"; };
+		87FA22EB20DB8B02004A5338 /* DVTSourceEditorViewProtocol-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTSourceEditorViewProtocol-Protocol.h"; sourceTree = "<group>"; };
+		87FA22EC20DB8B02004A5338 /* _TtC15IDESourceEditor23CodeRollSourceFileSlice.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor23CodeRollSourceFileSlice.h; sourceTree = "<group>"; };
+		87FA22ED20DB8B02004A5338 /* IDEIndexCompatibleDocumentLocationConverter-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEIndexCompatibleDocumentLocationConverter-Protocol.h"; sourceTree = "<group>"; };
+		87FA22EE20DB8B02004A5338 /* _TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor1.h"; sourceTree = "<group>"; };
+		87FA22EF20DB8B02004A5338 /* _TtC15IDESourceEditor23RefactoringRenameResult.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor23RefactoringRenameResult.h; sourceTree = "<group>"; };
+		87FA22F020DB8B02004A5338 /* NSCopying-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSCopying-Protocol.h"; sourceTree = "<group>"; };
+		87FA22F120DB8B02004A5338 /* IDEJumpToLineDestination-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEJumpToLineDestination-Protocol.h"; sourceTree = "<group>"; };
+		87FA22F220DB8B02004A5338 /* IDEBlueprint-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEBlueprint-Protocol.h"; sourceTree = "<group>"; };
+		87FA22F320DB8B02004A5338 /* IDEQuickHelpDataContextService-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDEQuickHelpDataContextService-Protocol.h"; sourceTree = "<group>"; };
+		87FA22F420DB8B02004A5338 /* IDELocalAnnotationHostingEditor-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDELocalAnnotationHostingEditor-Protocol.h"; sourceTree = "<group>"; };
+		87FA22F520DB8B02004A5338 /* DVTDiffSessionObserver-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTDiffSessionObserver-Protocol.h"; sourceTree = "<group>"; };
+		87FA22F620DB8B02004A5338 /* _IDECodeSnippetLibraryAllPlatformsPlaceholder.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _IDECodeSnippetLibraryAllPlatformsPlaceholder.h; sourceTree = "<group>"; };
+		87FA22F720DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor4.h"; sourceTree = "<group>"; };
+		87FA22F820DB8B02004A5338 /* _TtC15IDESourceEditor39SourceCodeEditorLocalAnnotationProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor39SourceCodeEditorLocalAnnotationProvider.h; sourceTree = "<group>"; };
+		87FA22F920DB8B02004A5338 /* CALayerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CALayerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22FA20DB8B02004A5338 /* _TtC15IDESourceEditor29SourceCodeEditorContainerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor29SourceCodeEditorContainerView.h; sourceTree = "<group>"; };
+		87FA22FB20DB8B02004A5338 /* SourceEditorPathTokenLayerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SourceEditorPathTokenLayerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22FC20DB8B02004A5338 /* DVTLineRangeCharacterRangeConverter-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTLineRangeCharacterRangeConverter-Protocol.h"; sourceTree = "<group>"; };
+		87FA22FD20DB8B02004A5338 /* IDESourceCodeDocument-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "IDESourceCodeDocument-Protocol.h"; sourceTree = "<group>"; };
+		87FA22FE20DB8B02004A5338 /* DVTImageLiteralQuickEditViewControllerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTImageLiteralQuickEditViewControllerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA22FF20DB8B02004A5338 /* IDECodeSnippetLibrary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IDECodeSnippetLibrary.h; sourceTree = "<group>"; };
+		87FA230020DB8B02004A5338 /* _TtC15IDESourceEditor18CodeRollLoadingRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC15IDESourceEditor18CodeRollLoadingRow.h; sourceTree = "<group>"; };
+		87FA230120DB8B02004A5338 /* DVTTextCompletionSupportingTextView-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DVTTextCompletionSupportingTextView-Protocol.h"; sourceTree = "<group>"; };
+		87FA230220DB8B02004A5338 /* NSImmediateActionAnimationController-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSImmediateActionAnimationController-Protocol.h"; sourceTree = "<group>"; };
+		87FA230320DB8B02004A5338 /* NSTouchBarDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTouchBarDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA230520DB8B02004A5338 /* _TtC12SourceEditor28SourceEditorTextReplaceField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor28SourceEditorTextReplaceField.h; sourceTree = "<group>"; };
+		87FA230620DB8B02004A5338 /* _TtC12SourceEditor30AddDefaultCaseEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor30AddDefaultCaseEditingOperation.h; sourceTree = "<group>"; };
+		87FA230720DB8B02004A5338 /* _TtC12SourceEditor19TextFindableDisplay.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19TextFindableDisplay.h; sourceTree = "<group>"; };
+		87FA230820DB8B02004A5338 /* _TtC12SourceEditor27ContextualMenuEventConsumer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor27ContextualMenuEventConsumer.h; sourceTree = "<group>"; };
+		87FA230920DB8B02004A5338 /* _TtC12SourceEditorP33_E53694DE114CF52172E44FB14EB48E6A25JournalDataSourceObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_E53694DE114CF52172E44FB14EB48E6A25JournalDataSourceObserver.h; sourceTree = "<group>"; };
+		87FA230A20DB8B02004A5338 /* _TtC12SourceEditor8KillRing.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor8KillRing.h; sourceTree = "<group>"; };
+		87FA230B20DB8B02004A5338 /* _TtC12SourceEditor21SourceEditorPrintView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor21SourceEditorPrintView.h; sourceTree = "<group>"; };
+		87FA230C20DB8B02004A5338 /* _TtC12SourceEditor24ReplaceTextUndoOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor24ReplaceTextUndoOperation.h; sourceTree = "<group>"; };
+		87FA230D20DB8B02004A5338 /* _TtC12SourceEditor25AddElseIfEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25AddElseIfEditingOperation.h; sourceTree = "<group>"; };
+		87FA230E20DB8B02004A5338 /* _TtC12SourceEditorP33_E68868DFB6818CF6DA7B0616B355D17318CoverageRibbonView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_E68868DFB6818CF6DA7B0616B355D17318CoverageRibbonView.h; sourceTree = "<group>"; };
+		87FA230F20DB8B02004A5338 /* _TtCC12SourceEditor23SourceEditorContentViewP33_AAA9EA6202C5955DAA98C4EF8563AD2F15ContentSublayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditor23SourceEditorContentViewP33_AAA9EA6202C5955DAA98C4EF8563AD2F15ContentSublayer.h; sourceTree = "<group>"; };
+		87FA231020DB8B02004A5338 /* _TtC12SourceEditor16PlaceholderLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor16PlaceholderLayer.h; sourceTree = "<group>"; };
+		87FA231120DB8B02004A5338 /* _TtC12SourceEditor11CursorLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor11CursorLayer.h; sourceTree = "<group>"; };
+		87FA231220DB8B02004A5338 /* _TtC12SourceEditor31SourceEditorRangeHighlightLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor31SourceEditorRangeHighlightLayer.h; sourceTree = "<group>"; };
+		87FA231320DB8B02004A5338 /* _TtC12SourceEditor51SourceEditorLineAnnotationCategoryControlBorderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor51SourceEditorLineAnnotationCategoryControlBorderView.h; sourceTree = "<group>"; };
+		87FA231420DB8B02004A5338 /* _TtC12SourceEditor35ActiveLineHighlightOverrideProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor35ActiveLineHighlightOverrideProvider.h; sourceTree = "<group>"; };
+		87FA231520DB8B02004A5338 /* _TtC12SourceEditor37TextFindableAttributeOverrideProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor37TextFindableAttributeOverrideProvider.h; sourceTree = "<group>"; };
+		87FA231620DB8B02004A5338 /* _TtC12SourceEditor43LanguageServiceContentGenerationCoordinator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor43LanguageServiceContentGenerationCoordinator.h; sourceTree = "<group>"; };
+		87FA231720DB8B02004A5338 /* _TtC12SourceEditor29IndentSelectionCommandHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor29IndentSelectionCommandHandler.h; sourceTree = "<group>"; };
+		87FA231820DB8B02004A5338 /* _TtC12SourceEditor29BracketResizeEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor29BracketResizeEditingOperation.h; sourceTree = "<group>"; };
+		87FA231920DB8B02004A5338 /* _TtC12SourceEditor29DefaultSourceEditorColorTheme.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor29DefaultSourceEditorColorTheme.h; sourceTree = "<group>"; };
+		87FA231A20DB8B02004A5338 /* _TtC12SourceEditor26AddElementEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor26AddElementEditingOperation.h; sourceTree = "<group>"; };
+		87FA231B20DB8B02004A5338 /* _TtCC12SourceEditor27RangePopLayoutVisualization8RangePop.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditor27RangePopLayoutVisualization8RangePop.h; sourceTree = "<group>"; };
+		87FA231C20DB8B02004A5338 /* _TtCCV12SourceEditor26SourceEditorLineAnnotation6Action6Button.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCCV12SourceEditor26SourceEditorLineAnnotation6Action6Button.h; sourceTree = "<group>"; };
+		87FA231D20DB8B02004A5338 /* _TtC12SourceEditor19DynamicAnimatorType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19DynamicAnimatorType.h; sourceTree = "<group>"; };
+		87FA231E20DB8B02004A5338 /* _TtC12SourceEditor25SourceEditorTextFindField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25SourceEditorTextFindField.h; sourceTree = "<group>"; };
+		87FA231F20DB8B02004A5338 /* PGERunDelegateWrapper-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PGERunDelegateWrapper-Protocol.h"; sourceTree = "<group>"; };
+		87FA232020DB8B02004A5338 /* _TtC12SourceEditorP33_6AAF9036FDAD54AA2877FB53CEF23B318RollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_6AAF9036FDAD54AA2877FB53CEF23B318RollView.h; sourceTree = "<group>"; };
+		87FA232120DB8B02004A5338 /* _TtC12SourceEditor25AddMethodEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25AddMethodEditingOperation.h; sourceTree = "<group>"; };
+		87FA232220DB8B02004A5338 /* _TtC12SourceEditor28SourceEditorGutterMarginView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor28SourceEditorGutterMarginView.h; sourceTree = "<group>"; };
+		87FA232320DB8B02004A5338 /* _TtC12SourceEditor35SourceEditorGutterMarginContentView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor35SourceEditorGutterMarginContentView.h; sourceTree = "<group>"; };
+		87FA232420DB8B02004A5338 /* _TtC12SourceEditorP33_8A34A44A3A81F5AC1210A0E6DECBF3AB31LayoutManagerDataSourceObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_8A34A44A3A81F5AC1210A0E6DECBF3AB31LayoutManagerDataSourceObserver.h; sourceTree = "<group>"; };
+		87FA232520DB8B02004A5338 /* _TtC12SourceEditor22TextFindTextButtonCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor22TextFindTextButtonCell.h; sourceTree = "<group>"; };
+		87FA232620DB8B02004A5338 /* PegPatternString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PegPatternString.h; sourceTree = "<group>"; };
+		87FA232720DB8B02004A5338 /* _TtC12SourceEditor23AddElseEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23AddElseEditingOperation.h; sourceTree = "<group>"; };
+		87FA232820DB8B02004A5338 /* _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2738SourceEditorLineAnnotationDropdownItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2738SourceEditorLineAnnotationDropdownItem.h; sourceTree = "<group>"; };
+		87FA232920DB8B02004A5338 /* _TtC12SourceEditor36SourceEditorCodeCompletionController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor36SourceEditorCodeCompletionController.h; sourceTree = "<group>"; };
+		87FA232A20DB8B02004A5338 /* _TtCC12SourceEditor20ActionMenuControllerP33_7BD8C7A954834164802CF40D70281F817Context.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditor20ActionMenuControllerP33_7BD8C7A954834164802CF40D70281F817Context.h; sourceTree = "<group>"; };
+		87FA232B20DB8B02004A5338 /* _TtC12SourceEditor39SourceEditorMultipleSelectionController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor39SourceEditorMultipleSelectionController.h; sourceTree = "<group>"; };
+		87FA232C20DB8B02004A5338 /* _TtC12SourceEditor30SourceEditorViewDraggingSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor30SourceEditorViewDraggingSource.h; sourceTree = "<group>"; };
+		87FA232D20DB8B02004A5338 /* _TtC12SourceEditorP33_E68868DFB6818CF6DA7B0616B355D17316NoAnimationLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_E68868DFB6818CF6DA7B0616B355D17316NoAnimationLayer.h; sourceTree = "<group>"; };
+		87FA232E20DB8B02004A5338 /* _TtC12SourceEditor26MoveLineDownCommandHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor26MoveLineDownCommandHandler.h; sourceTree = "<group>"; };
+		87FA232F20DB8B02004A5338 /* _TtC12SourceEditor32SourceEditorTextReplaceFieldCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor32SourceEditorTextReplaceFieldCell.h; sourceTree = "<group>"; };
+		87FA233020DB8B02004A5338 /* _TtC12SourceEditor18SourceEditorGutter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor18SourceEditorGutter.h; sourceTree = "<group>"; };
+		87FA233120DB8B02004A5338 /* _TtC12SourceEditor32TrimTrailingWhitespaceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor32TrimTrailingWhitespaceController.h; sourceTree = "<group>"; };
+		87FA233220DB8B02004A5338 /* _TtC12SourceEditor26StructuredSelectionDisplay.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor26StructuredSelectionDisplay.h; sourceTree = "<group>"; };
+		87FA233320DB8B02004A5338 /* _TtC12SourceEditor22DisplayLinkedAnimation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor22DisplayLinkedAnimation.h; sourceTree = "<group>"; };
+		87FA233420DB8B02004A5338 /* _TtC12SourceEditor18LineHighlightLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor18LineHighlightLayer.h; sourceTree = "<group>"; };
+		87FA233520DB8B02004A5338 /* _TtC12SourceEditor22SourceEditorDataSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor22SourceEditorDataSource.h; sourceTree = "<group>"; };
+		87FA233620DB8B02004A5338 /* _TtC12SourceEditor24PlaceholderVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor24PlaceholderVisualization.h; sourceTree = "<group>"; };
+		87FA233720DB8B02004A5338 /* _TtC12SourceEditor30SourceEditorLineAnnotationView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor30SourceEditorLineAnnotationView.h; sourceTree = "<group>"; };
+		87FA233820DB8B02004A5338 /* _TtC12SourceEditor18DelimiterHighlight.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor18DelimiterHighlight.h; sourceTree = "<group>"; };
+		87FA233920DB8B02004A5338 /* _TtC12SourceEditor28AddParameterEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor28AddParameterEditingOperation.h; sourceTree = "<group>"; };
+		87FA233A20DB8B02004A5338 /* _TtC12SourceEditor23SourceEditorUndoManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23SourceEditorUndoManager.h; sourceTree = "<group>"; };
+		87FA233B20DB8B02004A5338 /* _TtC12SourceEditor25CodeCoverageVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25CodeCoverageVisualization.h; sourceTree = "<group>"; };
+		87FA233C20DB8B02004A5338 /* _TtC12SourceEditor14SelectionLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor14SelectionLayer.h; sourceTree = "<group>"; };
+		87FA233D20DB8B02004A5338 /* _TtC12SourceEditor23SourceEditorContentView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23SourceEditorContentView.h; sourceTree = "<group>"; };
+		87FA233E20DB8B02004A5338 /* _TtC12SourceEditor28AdjustClosingBraceEditAssist.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor28AdjustClosingBraceEditAssist.h; sourceTree = "<group>"; };
+		87FA233F20DB8B02004A5338 /* _TtC12SourceEditor27RangePopLayoutVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor27RangePopLayoutVisualization.h; sourceTree = "<group>"; };
+		87FA234020DB8B02004A5338 /* _TtC12SourceEditor21PerformanceLogSession.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor21PerformanceLogSession.h; sourceTree = "<group>"; };
+		87FA234120DB8B02004A5338 /* _TtC12SourceEditor23SourceEditorCodeSnippet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23SourceEditorCodeSnippet.h; sourceTree = "<group>"; };
+		87FA234220DB8B02004A5338 /* _TtC12SourceEditor30AutoEncloseDelimiterEditAssist.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor30AutoEncloseDelimiterEditAssist.h; sourceTree = "<group>"; };
+		87FA234320DB8B02004A5338 /* _TtC12SourceEditor24InsertTextCommandHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor24InsertTextCommandHandler.h; sourceTree = "<group>"; };
+		87FA234420DB8B02004A5338 /* _TtC12SourceEditor22GenericLanguageService.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor22GenericLanguageService.h; sourceTree = "<group>"; };
+		87FA234520DB8B02004A5338 /* PGERunDelegateWrapperImpl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PGERunDelegateWrapperImpl.h; sourceTree = "<group>"; };
+		87FA234620DB8B02004A5338 /* _TtC12SourceEditor30SourceEditorInlineLozengeLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor30SourceEditorInlineLozengeLayer.h; sourceTree = "<group>"; };
+		87FA234720DB8B02004A5338 /* _TtC12SourceEditor32SourceEditorKVOFeatureController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor32SourceEditorKVOFeatureController.h; sourceTree = "<group>"; };
+		87FA234820DB8B02004A5338 /* _TtC12SourceEditor25FoldableRegionContextView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25FoldableRegionContextView.h; sourceTree = "<group>"; };
+		87FA234920DB8B02004A5338 /* _TtC12SourceEditor45SourceEditorLineAnnotationDropdownShadowSpecs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor45SourceEditorLineAnnotationDropdownShadowSpecs.h; sourceTree = "<group>"; };
+		87FA234A20DB8B02004A5338 /* _TtC12SourceEditorP33_F4E0FDEBDAE4300D9964F2BC65F7909735CursorTextAttributeOverrideProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_F4E0FDEBDAE4300D9964F2BC65F7909735CursorTextAttributeOverrideProvider.h; sourceTree = "<group>"; };
+		87FA234B20DB8B02004A5338 /* _TtC12SourceEditor21ActionMenuFilterField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor21ActionMenuFilterField.h; sourceTree = "<group>"; };
+		87FA234C20DB8B02004A5338 /* SourceEditorScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SourceEditorScrollView.h; sourceTree = "<group>"; };
+		87FA234D20DB8B02004A5338 /* _TtCC12SourceEditorP33_7AFBC303C5A816C40636AEF2F174C33D32StructuredSelectionVisualization20LonzengeHostingLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditorP33_7AFBC303C5A816C40636AEF2F174C33D32StructuredSelectionVisualization20LonzengeHostingLayer.h; sourceTree = "<group>"; };
+		87FA234E20DB8B02004A5338 /* _TtC12SourceEditor44SourceEditorLineAnnotationDropdownColorSpecs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor44SourceEditorLineAnnotationDropdownColorSpecs.h; sourceTree = "<group>"; };
+		87FA234F20DB8B02004A5338 /* NSTableViewDataSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTableViewDataSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA235020DB8B02004A5338 /* _TtC12SourceEditor22ViewportLayoutStrategy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor22ViewportLayoutStrategy.h; sourceTree = "<group>"; };
+		87FA235120DB8B02004A5338 /* _TtC12SourceEditor37SourceEditorLineAnnotationContentView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor37SourceEditorLineAnnotationContentView.h; sourceTree = "<group>"; };
+		87FA235220DB8B02004A5338 /* _TtCC12SourceEditor41SourceEditorLineAnnotationCategoryControl15CategoryControl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditor41SourceEditorLineAnnotationCategoryControl15CategoryControl.h; sourceTree = "<group>"; };
+		87FA235320DB8B02004A5338 /* _TtC12SourceEditor37SourceEditorLineAnnotationLayoutSpecs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor37SourceEditorLineAnnotationLayoutSpecs.h; sourceTree = "<group>"; };
+		87FA235420DB8B02004A5338 /* NSDraggingSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSDraggingSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA235520DB8B02004A5338 /* _TtC12SourceEditor33SourceEditorMouseSelectionSession.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor33SourceEditorMouseSelectionSession.h; sourceTree = "<group>"; };
+		87FA235620DB8B02004A5338 /* NSTableViewDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTableViewDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA235720DB8B02004A5338 /* _TtC12SourceEditor20ClosureUndoOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor20ClosureUndoOperation.h; sourceTree = "<group>"; };
+		87FA235820DB8B02004A5338 /* _TtC12SourceEditor18CoverageCountLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor18CoverageCountLayer.h; sourceTree = "<group>"; };
+		87FA235920DB8B02004A5338 /* _TtC12SourceEditor29SourceEditorDiagnosticManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor29SourceEditorDiagnosticManager.h; sourceTree = "<group>"; };
+		87FA235A20DB8B02004A5338 /* _TtC12SourceEditorP33_DEA745017783AC8E6419858AD5CE388D35FoldingControllerDataSourceObserver.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_DEA745017783AC8E6419858AD5CE388D35FoldingControllerDataSourceObserver.h; sourceTree = "<group>"; };
+		87FA235B20DB8B02004A5338 /* _TtC12SourceEditor34SwiftColorLiteralDraggingExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor34SwiftColorLiteralDraggingExtension.h; sourceTree = "<group>"; };
+		87FA235C20DB8B02004A5338 /* _TtC12SourceEditor19DynamicBehaviorType.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19DynamicBehaviorType.h; sourceTree = "<group>"; };
+		87FA235D20DB8B02004A5338 /* _TtC12SourceEditor16CommandInterface.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor16CommandInterface.h; sourceTree = "<group>"; };
+		87FA235E20DB8B02004A5338 /* NSCollectionViewDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSCollectionViewDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA235F20DB8B02004A5338 /* _TtC12SourceEditor19SourceEditorJournal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19SourceEditorJournal.h; sourceTree = "<group>"; };
+		87FA236020DB8B02004A5338 /* _TtC12SourceEditor28PageGuideLayoutVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor28PageGuideLayoutVisualization.h; sourceTree = "<group>"; };
+		87FA236120DB8B02004A5338 /* _TtC12SourceEditor24SourceEditorLozengeLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor24SourceEditorLozengeLayer.h; sourceTree = "<group>"; };
+		87FA236220DB8B02004A5338 /* _TtC12SourceEditor51SourceEditorLineAnnotationCategoryControlCountLabel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor51SourceEditorLineAnnotationCategoryControlCountLabel.h; sourceTree = "<group>"; };
+		87FA236320DB8B02004A5338 /* _TtC12SourceEditor28DefaultSourceEditorFontTheme.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor28DefaultSourceEditorFontTheme.h; sourceTree = "<group>"; };
+		87FA236420DB8B02004A5338 /* ActionMenuDivider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ActionMenuDivider.h; sourceTree = "<group>"; };
+		87FA236520DB8B02004A5338 /* _TtC12SourceEditor21SourceEditorLineLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor21SourceEditorLineLayer.h; sourceTree = "<group>"; };
+		87FA236620DB8B02004A5338 /* NSPopover-PegasusSPI.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSPopover-PegasusSPI.h"; sourceTree = "<group>"; };
+		87FA236720DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorLineAnnotationDropdown.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor34SourceEditorLineAnnotationDropdown.h; sourceTree = "<group>"; };
+		87FA236820DB8B02004A5338 /* NSCollectionViewDataSource-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSCollectionViewDataSource-Protocol.h"; sourceTree = "<group>"; };
+		87FA236920DB8B02004A5338 /* _TtC12SourceEditor23SelectedSymbolHighlight.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23SelectedSymbolHighlight.h; sourceTree = "<group>"; };
+		87FA236A20DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor2.h"; sourceTree = "<group>"; };
+		87FA236B20DB8B02004A5338 /* NSCursor-NSCursorAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSCursor-NSCursorAdditions.h"; sourceTree = "<group>"; };
+		87FA236C20DB8B02004A5338 /* _TtC12SourceEditorP33_906B8C3F9316B92D2381F9B8D2DBE20C23SELocalizedStringAnchor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_906B8C3F9316B92D2381F9B8D2DBE20C23SELocalizedStringAnchor.h; sourceTree = "<group>"; };
+		87FA236D20DB8B02004A5338 /* CAAction-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CAAction-Protocol.h"; sourceTree = "<group>"; };
+		87FA236E20DB8B02004A5338 /* _TtC12SourceEditor18CodeRollController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor18CodeRollController.h; sourceTree = "<group>"; };
+		87FA236F20DB8B02004A5338 /* _TtC12SourceEditor17FoldingController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor17FoldingController.h; sourceTree = "<group>"; };
+		87FA237020DB8B02004A5338 /* _TtC12SourceEditor20ActionMenuController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor20ActionMenuController.h; sourceTree = "<group>"; };
+		87FA237120DB8B02004A5338 /* NSCollectionViewDelegateFlowLayout-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSCollectionViewDelegateFlowLayout-Protocol.h"; sourceTree = "<group>"; };
+		87FA237220DB8B02004A5338 /* _TtC12SourceEditor36SourceEditorLineAnnotationColorSpecs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor36SourceEditorLineAnnotationColorSpecs.h; sourceTree = "<group>"; };
+		87FA237320DB8B02004A5338 /* _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2748SourceEditorLineAnnotationDropdownCollectionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2748SourceEditorLineAnnotationDropdownCollectionView.h; sourceTree = "<group>"; };
+		87FA237420DB8B02004A5338 /* CDStructures.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CDStructures.h; sourceTree = "<group>"; };
+		87FA237520DB8B02004A5338 /* _TtC12SourceEditor14PerformanceLog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor14PerformanceLog.h; sourceTree = "<group>"; };
+		87FA237620DB8B02004A5338 /* _TtCC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2738SourceEditorLineAnnotationDropdownItem42SourceEditorLineAnnotationDropdownItemView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2738SourceEditorLineAnnotationDropdownItem42SourceEditorLineAnnotationDropdownItemView.h; sourceTree = "<group>"; };
+		87FA237720DB8B02004A5338 /* _TtC12SourceEditor26ElidedLineSubstitutionView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor26ElidedLineSubstitutionView.h; sourceTree = "<group>"; };
+		87FA237820DB8B02004A5338 /* _TtC12SourceEditor25RenameLayoutVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25RenameLayoutVisualization.h; sourceTree = "<group>"; };
+		87FA237920DB8B02004A5338 /* _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2748SourceEditorLineAnnotationDropdownItemLayoutInfo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2748SourceEditorLineAnnotationDropdownItemLayoutInfo.h; sourceTree = "<group>"; };
+		87FA237A20DB8B02004A5338 /* _TtC12SourceEditor19TimeoutContinuation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19TimeoutContinuation.h; sourceTree = "<group>"; };
+		87FA237B20DB8B02004A5338 /* _TtCV12SourceEditor26SourceEditorLineAnnotation6Action.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCV12SourceEditor26SourceEditorLineAnnotation6Action.h; sourceTree = "<group>"; };
+		87FA237C20DB8B02004A5338 /* _TtC12SourceEditor17FoldableImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor17FoldableImageView.h; sourceTree = "<group>"; };
+		87FA237D20DB8B02004A5338 /* _TtC12SourceEditorP33_315818094C8932A943FC4C1323EF92C826DebuggingAnimationDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_315818094C8932A943FC4C1323EF92C826DebuggingAnimationDelegate.h; sourceTree = "<group>"; };
+		87FA237E20DB8B02004A5338 /* _TtC12SourceEditor30ActionMenuLoadingTableCellView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor30ActionMenuLoadingTableCellView.h; sourceTree = "<group>"; };
+		87FA237F20DB8B02004A5338 /* _TtC12SourceEditorP33_2318AB98ECCA60F6DBCBF662C652774837SourceEditorDiagnosticProviderContext.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_2318AB98ECCA60F6DBCBF662C652774837SourceEditorDiagnosticProviderContext.h; sourceTree = "<group>"; };
+		87FA238020DB8B02004A5338 /* _TtC12SourceEditor20SourceEditorLineData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor20SourceEditorLineData.h; sourceTree = "<group>"; };
+		87FA238120DB8B02004A5338 /* _TtC12SourceEditor43SourceEditorLineAnnotationDropdownFontSpecs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor43SourceEditorLineAnnotationDropdownFontSpecs.h; sourceTree = "<group>"; };
+		87FA238220DB8B02004A5338 /* _TtC12SourceEditor25ActionMenuFilterFieldCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25ActionMenuFilterFieldCell.h; sourceTree = "<group>"; };
+		87FA238320DB8B02004A5338 /* _TtC12SourceEditor20SourceEditorLandmark.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor20SourceEditorLandmark.h; sourceTree = "<group>"; };
+		87FA238420DB8B02004A5338 /* NSTextInputClient-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTextInputClient-Protocol.h"; sourceTree = "<group>"; };
+		87FA238520DB8B02004A5338 /* _TtC12SourceEditor19TextFindPopUpButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19TextFindPopUpButton.h; sourceTree = "<group>"; };
+		87FA238620DB8B02004A5338 /* _TtC12SourceEditor29GutterAnnotationAccessibility.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor29GutterAnnotationAccessibility.h; sourceTree = "<group>"; };
+		87FA238720DB8B02004A5338 /* _TtC12SourceEditor34SwiftImageLiteralDraggingExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor34SwiftImageLiteralDraggingExtension.h; sourceTree = "<group>"; };
+		87FA238820DB8B02004A5338 /* _TtC12SourceEditor29AddReturnTypeEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor29AddReturnTypeEditingOperation.h; sourceTree = "<group>"; };
+		87FA238920DB8B02004A5338 /* _TtC12SourceEditor23TextFindPopUpButtonCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23TextFindPopUpButtonCell.h; sourceTree = "<group>"; };
+		87FA238A20DB8B02004A5338 /* _TtC12SourceEditor24CoreTypesetterLineLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor24CoreTypesetterLineLayout.h; sourceTree = "<group>"; };
+		87FA238B20DB8B02004A5338 /* NSPopoverDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSPopoverDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA238C20DB8B02004A5338 /* _TtC12SourceEditor23AddCaseEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23AddCaseEditingOperation.h; sourceTree = "<group>"; };
+		87FA238D20DB8B02004A5338 /* _TtCC12SourceEditor23SelectedSymbolHighlight15SymbolHighlight.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditor23SelectedSymbolHighlight15SymbolHighlight.h; sourceTree = "<group>"; };
+		87FA238E20DB8B02004A5338 /* NSTextFieldDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTextFieldDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA238F20DB8B02004A5338 /* _TtC12SourceEditor16SourceEditorView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor16SourceEditorView.h; sourceTree = "<group>"; };
+		87FA239020DB8B02004A5338 /* _TtC12SourceEditor19TextFindFieldEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19TextFindFieldEditor.h; sourceTree = "<group>"; };
+		87FA239120DB8B02004A5338 /* _TtC12SourceEditor37LanguageServiceCodeCompletionStrategy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor37LanguageServiceCodeCompletionStrategy.h; sourceTree = "<group>"; };
+		87FA239220DB8B02004A5338 /* _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2744SourceEditorLineAnnotationDropdownBackground.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2744SourceEditorLineAnnotationDropdownBackground.h; sourceTree = "<group>"; };
+		87FA239320DB8B02004A5338 /* _TtC12SourceEditor18TextFindTextButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor18TextFindTextButton.h; sourceTree = "<group>"; };
+		87FA239420DB8B02004A5338 /* _TtC12SourceEditor41SourceEditorNotificationFeatureController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor41SourceEditorNotificationFeatureController.h; sourceTree = "<group>"; };
+		87FA239520DB8B02004A5338 /* NSView-SourceEditor1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSView-SourceEditor1.h"; sourceTree = "<group>"; };
+		87FA239620DB8B02004A5338 /* _TtC12SourceEditor23ActionMenuTableCellView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23ActionMenuTableCellView.h; sourceTree = "<group>"; };
+		87FA239720DB8B02004A5338 /* NSView-SourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSView-SourceEditor.h"; sourceTree = "<group>"; };
+		87FA239820DB8B02004A5338 /* NSServicesMenuRequestor-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSServicesMenuRequestor-Protocol.h"; sourceTree = "<group>"; };
+		87FA239920DB8B02004A5338 /* _TtC12SourceEditor27AddPropertyEditingOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor27AddPropertyEditingOperation.h; sourceTree = "<group>"; };
+		87FA239A20DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor1.h"; sourceTree = "<group>"; };
+		87FA239B20DB8B02004A5338 /* _TtC12SourceEditor14ActionMenuItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor14ActionMenuItem.h; sourceTree = "<group>"; };
+		87FA239C20DB8B02004A5338 /* _TtC12SourceEditor13UndoOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor13UndoOperation.h; sourceTree = "<group>"; };
+		87FA239D20DB8B02004A5338 /* NSControlTextEditingDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSControlTextEditingDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA239E20DB8B02004A5338 /* NSObject-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject-Protocol.h"; sourceTree = "<group>"; };
+		87FA239F20DB8B02004A5338 /* _TtC12SourceEditor45SourceEditorLineAnnotationDropdownLayoutSpecs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor45SourceEditorLineAnnotationDropdownLayoutSpecs.h; sourceTree = "<group>"; };
+		87FA23A020DB8B02004A5338 /* _TtC12SourceEditor37TextFindableResultLayoutVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor37TextFindableResultLayoutVisualization.h; sourceTree = "<group>"; };
+		87FA23A120DB8B02004A5338 /* _TtCC12SourceEditor28SourceEditorGutterMarginView33SourceEditorGutterMarginViewLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditor28SourceEditorGutterMarginView33SourceEditorGutterMarginViewLayer.h; sourceTree = "<group>"; };
+		87FA23A220DB8B02004A5338 /* _TtC12SourceEditor41SourceEditorLineAnnotationCategoryControl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor41SourceEditorLineAnnotationCategoryControl.h; sourceTree = "<group>"; };
+		87FA23A320DB8B02004A5338 /* _TtC12SourceEditor24MoveLineUpCommandHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor24MoveLineUpCommandHandler.h; sourceTree = "<group>"; };
+		87FA23A420DB8B02004A5338 /* _TtCC12SourceEditor34SourceEditorLineAnnotationDropdown39SourceEditorLineAnnotationDropdownLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditor34SourceEditorLineAnnotationDropdown39SourceEditorLineAnnotationDropdownLayer.h; sourceTree = "<group>"; };
+		87FA23A520DB8B02004A5338 /* _TtC12SourceEditor16RenameController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor16RenameController.h; sourceTree = "<group>"; };
+		87FA23A620DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorFontSmoothingTextLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor34SourceEditorFontSmoothingTextLayer.h; sourceTree = "<group>"; };
+		87FA23A720DB8B02004A5338 /* CAAnimationDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CAAnimationDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA23A820DB8B02004A5338 /* _TtP12SourceEditor34SourceEditorTextFindPanelFieldType_-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtP12SourceEditor34SourceEditorTextFindPanelFieldType_-Protocol.h"; sourceTree = "<group>"; };
+		87FA23A920DB8B02004A5338 /* _TtC12SourceEditor34InvisibleCharactersOverlayProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor34InvisibleCharactersOverlayProvider.h; sourceTree = "<group>"; };
+		87FA23AA20DB8B02004A5338 /* _TtC12SourceEditorP33_7AFBC303C5A816C40636AEF2F174C33D32StructuredSelectionVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_7AFBC303C5A816C40636AEF2F174C33D32StructuredSelectionVisualization.h; sourceTree = "<group>"; };
+		87FA23AB20DB8B02004A5338 /* _TtC12SourceEditor28SourceEditorSelectionDisplay.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor28SourceEditorSelectionDisplay.h; sourceTree = "<group>"; };
+		87FA23AC20DB8B02004A5338 /* _TtC12SourceEditor21ContinuationScheduler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor21ContinuationScheduler.h; sourceTree = "<group>"; };
+		87FA23AD20DB8B02004A5338 /* _TtC12SourceEditor23BasicDiagnosticProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor23BasicDiagnosticProvider.h; sourceTree = "<group>"; };
+		87FA23AE20DB8B02004A5338 /* _TtCC12SourceEditor28PageGuideLayoutVisualizationP33_11450687FAF9AECE734138FEC5A56F7914PageGuideLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtCC12SourceEditor28PageGuideLayoutVisualizationP33_11450687FAF9AECE734138FEC5A56F7914PageGuideLayer.h; sourceTree = "<group>"; };
+		87FA23AF20DB8B02004A5338 /* PGERunDelegateWrapper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PGERunDelegateWrapper.h; sourceTree = "<group>"; };
+		87FA23B020DB8B02004A5338 /* _TtC12SourceEditor18CoverageRangeLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor18CoverageRangeLayer.h; sourceTree = "<group>"; };
+		87FA23B120DB8B02004A5338 /* _TtC12SourceEditor32LineHighlightLayoutVisualization.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor32LineHighlightLayoutVisualization.h; sourceTree = "<group>"; };
+		87FA23B220DB8B02004A5338 /* _TtC12SourceEditor18CoreTextLineLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor18CoreTextLineLayout.h; sourceTree = "<group>"; };
+		87FA23B320DB8B02004A5338 /* _TtC12SourceEditor14PerformanceLog-SourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC12SourceEditor14PerformanceLog-SourceEditor.h"; sourceTree = "<group>"; };
+		87FA23B420DB8B02004A5338 /* _TtC12SourceEditor51SourceEditorLineAnnotationDropdownLayoutAdjustments.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor51SourceEditorLineAnnotationDropdownLayoutAdjustments.h; sourceTree = "<group>"; };
+		87FA23B520DB8B02004A5338 /* _TtC12SourceEditor17TextFindPanelView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor17TextFindPanelView.h; sourceTree = "<group>"; };
+		87FA23B620DB8B02004A5338 /* _TtC12SourceEditor33SourceEditorLineAnnotationManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor33SourceEditorLineAnnotationManager.h; sourceTree = "<group>"; };
+		87FA23B720DB8B02004A5338 /* _TtC12SourceEditor25SourceEditorEditAssistant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25SourceEditorEditAssistant.h; sourceTree = "<group>"; };
+		87FA23B820DB8B02004A5338 /* _TtC12SourceEditor29SourceEditorTextSelectionRect.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor29SourceEditorTextSelectionRect.h; sourceTree = "<group>"; };
+		87FA23B920DB8B02004A5338 /* _TtC12SourceEditor29SourceEditorTextFindFieldCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor29SourceEditorTextFindFieldCell.h; sourceTree = "<group>"; };
+		87FA23BA20DB8B02004A5338 /* _TtC12SourceEditor27StructuredEditingController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor27StructuredEditingController.h; sourceTree = "<group>"; };
+		87FA23BB20DB8B02004A5338 /* _TtC12SourceEditor25SourceEditorLayoutManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25SourceEditorLayoutManager.h; sourceTree = "<group>"; };
+		87FA23BC20DB8B02004A5338 /* _TtC12SourceEditor19ActionMenuTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19ActionMenuTableView.h; sourceTree = "<group>"; };
+		87FA23BD20DB8B02004A5338 /* _TtC12SourceEditor26NavActionMenuTableCellView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor26NavActionMenuTableCellView.h; sourceTree = "<group>"; };
+		87FA23BE20DB8B02004A5338 /* _TtP12SourceEditor15DynamicItemType_-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtP12SourceEditor15DynamicItemType_-Protocol.h"; sourceTree = "<group>"; };
+		87FA23BF20DB8B02004A5338 /* _TtC12SourceEditorP33_F4E0FDEBDAE4300D9964F2BC65F7909738SelectionTextAttributeOverrideProvider.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditorP33_F4E0FDEBDAE4300D9964F2BC65F7909738SelectionTextAttributeOverrideProvider.h; sourceTree = "<group>"; };
+		87FA23C020DB8B02004A5338 /* _TtC12SourceEditor31SourceEditorSelectionController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor31SourceEditorSelectionController.h; sourceTree = "<group>"; };
+		87FA23C120DB8B02004A5338 /* _TtC12SourceEditor14MultiOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor14MultiOperation.h; sourceTree = "<group>"; };
+		87FA23C220DB8B02004A5338 /* _TtC12SourceEditor22RenameImageButtonLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor22RenameImageButtonLayer.h; sourceTree = "<group>"; };
+		87FA23C320DB8B02004A5338 /* CALayerDelegate-Protocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CALayerDelegate-Protocol.h"; sourceTree = "<group>"; };
+		87FA23C420DB8B02004A5338 /* _TtC12SourceEditor19TypingUndoOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor19TypingUndoOperation.h; sourceTree = "<group>"; };
+		87FA23C520DB8B02004A5338 /* _TtC12SourceEditor38SourceEditorGutterMarginBackgroundView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor38SourceEditorGutterMarginBackgroundView.h; sourceTree = "<group>"; };
+		87FA23C620DB8B02004A5338 /* _TtC12SourceEditor28AutoCloseDelimiterEditAssist.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor28AutoCloseDelimiterEditAssist.h; sourceTree = "<group>"; };
+		87FA23C720DB8B02004A5338 /* _TtC12SourceEditor27LineAnnotationAccessibility.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor27LineAnnotationAccessibility.h; sourceTree = "<group>"; };
+		87FA23C820DB8B02004A5338 /* _TtC12SourceEditor22LayoutEffectController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor22LayoutEffectController.h; sourceTree = "<group>"; };
+		87FA23C920DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "_TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor.h"; sourceTree = "<group>"; };
+		87FA23CA20DB8B02004A5338 /* _TtC12SourceEditor25SourceEditorTextFindPanel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = _TtC12SourceEditor25SourceEditorTextFindPanel.h; sourceTree = "<group>"; };
 		8D5B49B6048680CD000E48DA /* OMColorSense.xcplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OMColorSense.xcplugin; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D5B49B7048680CD000E48DA /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA37E2DB0E6291C8001BDFEF /* OMColorHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OMColorHelper.m; sourceTree = "<group>"; };
@@ -79,6 +493,7 @@
 		7F411B0C15FABAC6002F77B6 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				87FA222920DB8B02004A5338 /* Xcode9.3 */,
 				7F2B355F15FA59D000DB3249 /* OMColorHelper.h */,
 				DA37E2DB0E6291C8001BDFEF /* OMColorHelper.m */,
 				7F6EE2BD15FA6F3B00BA114A /* OMColorFrameView.h */,
@@ -87,6 +502,451 @@
 				7FDADE3915FA6CA400A847E3 /* OMPlainColorWell.m */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		87FA222920DB8B02004A5338 /* Xcode9.3 */ = {
+			isa = PBXGroup;
+			children = (
+				87FA222A20DB8B02004A5338 /* DVTSourceEditor */,
+				87FA224D20DB8B02004A5338 /* IDESourceEditor */,
+				87FA230420DB8B02004A5338 /* SourceEditor */,
+			);
+			path = Xcode9.3;
+			sourceTree = "<group>";
+		};
+		87FA222A20DB8B02004A5338 /* DVTSourceEditor */ = {
+			isa = PBXGroup;
+			children = (
+				87FA222B20DB8B02004A5338 /* _TtCC15DVTSourceEditor22EditorSourceKitServiceP33_67BEF26930717E2ED8344466E25DFE5F17RequestDispatcher.h */,
+				87FA222C20DB8B02004A5338 /* DVTFindPatternManager-Protocol.h */,
+				87FA222D20DB8B02004A5338 /* _TtC15DVTSourceEditor25DVTSourceEditorMarkupView.h */,
+				87FA222E20DB8B02004A5338 /* __T012SourceEditor0aB6GutterCN-DVTSourceEditor.h */,
+				87FA222F20DB8B02004A5338 /* DVTSourceEditorPatternSearchField.h */,
+				87FA223020DB8B02004A5338 /* _TtC15DVTSourceEditorP33_97DC68711F590B15DCBEF5DB87A725AD32SourceCodeDiffDataSourceObserver.h */,
+				87FA223120DB8B02004A5338 /* _TtC15DVTSourceEditor23DVTSourceEditorLandmark.h */,
+				87FA223220DB8B02004A5338 /* _TtC15DVTSourceEditor26DVTSourceEditorLanguageSet.h */,
+				87FA223320DB8B02004A5338 /* DVTSourceEditorPatternSearchFieldCell.h */,
+				87FA223420DB8B02004A5338 /* _TtC15DVTSourceEditor27DVTSourceEditorMarkupStyles.h */,
+				87FA223520DB8B02004A5338 /* DVTInvalidation-Protocol.h */,
+				87FA223620DB8B02004A5338 /* _TtC15DVTSourceEditor22EditorSourceKitService.h */,
+				87FA223720DB8B02004A5338 /* DVTSourceEditorFindPatternPanel-Protocol.h */,
+				87FA223820DB8B02004A5338 /* _TtC15DVTSourceEditor28DVTSourceEditorTextFindPanel.h */,
+				87FA223920DB8B02004A5338 /* _TtC15DVTSourceEditor20DVTSourceEditorTheme.h */,
+				87FA223A20DB8B02004A5338 /* DVTUndoManagerDelegate-Protocol.h */,
+				87FA223B20DB8B02004A5338 /* DVTFindPatternField-Protocol.h */,
+				87FA223C20DB8B02004A5338 /* __T012SourceEditor0ab4DataA0CN-DVTSourceEditor.h */,
+				87FA223D20DB8B02004A5338 /* CDStructures.h */,
+				87FA223E20DB8B02004A5338 /* NSPrintPanelAccessorizing-Protocol.h */,
+				87FA223F20DB8B02004A5338 /* _TtC15DVTSourceEditor28DVTSourceEditorTextFindField.h */,
+				87FA224020DB8B02004A5338 /* DVTUndo-Protocol.h */,
+				87FA224120DB8B02004A5338 /* DVTTextSidebar-Protocol.h */,
+				87FA224220DB8B02004A5338 /* NSObject-Protocol.h */,
+				87FA224320DB8B02004A5338 /* _TtC15DVTSourceEditor26DVTSourceEditorUndoManager.h */,
+				87FA224420DB8B02004A5338 /* _TtC15DVTSourceEditor32DVTSourceEditorTextFindFieldCell.h */,
+				87FA224520DB8B02004A5338 /* _TtC15DVTSourceEditor26DVTPegasusSourceEditorView.h */,
+				87FA224620DB8B02004A5338 /* _TtP12SourceEditor34SourceEditorTextFindPanelFieldType_-Protocol.h */,
+				87FA224720DB8B02004A5338 /* DVTSourceLandmarkItemProtocol-Protocol.h */,
+				87FA224820DB8B02004A5338 /* NSCopying-Protocol.h */,
+				87FA224920DB8B02004A5338 /* _TtC15DVTSourceEditor44DVTSourceEditorPrintPanelAccessoryController.h */,
+				87FA224A20DB8B02004A5338 /* _TtC15DVTSourceEditor29DVTSourceEditorDiffDataSource.h */,
+				87FA224B20DB8B02004A5338 /* _TtC15DVTSourceEditor23DVTSourceEditorLandmark-DVTSourceEditor.h */,
+				87FA224C20DB8B02004A5338 /* DVTLineRangeCharacterRangeConverter-Protocol.h */,
+			);
+			path = DVTSourceEditor;
+			sourceTree = "<group>";
+		};
+		87FA224D20DB8B02004A5338 /* IDESourceEditor */ = {
+			isa = PBXGroup;
+			children = (
+				87FA224E20DB8B02004A5338 /* DVTTextFindable-Protocol.h */,
+				87FA224F20DB8B02004A5338 /* IDEURLHandler-Protocol.h */,
+				87FA225020DB8B02004A5338 /* IDESourceControlBlameForLineEditor-Protocol.h */,
+				87FA225120DB8B02004A5338 /* DVTAnnotationManagerDelegate-Protocol.h */,
+				87FA225220DB8B02004A5338 /* IDECodeSnippetLibraryDetailEditorController.h */,
+				87FA225320DB8B02004A5338 /* _TtC15IDESourceEditor32SourceCodeInvocationGeniusResult.h */,
+				87FA225420DB8B02004A5338 /* _TtC15IDESourceEditor29SourceCodeEditorDFRController.h */,
+				87FA225520DB8B02004A5338 /* __T015DVTSourceEditor0aB8LandmarkCN-IDESourceEditor.h */,
+				87FA225620DB8B02004A5338 /* _TtC15IDESourceEditor24CodeRollSourceEditorView.h */,
+				87FA225720DB8B02004A5338 /* IDEBreakpointObserver-Protocol.h */,
+				87FA225820DB8B02004A5338 /* _TtC15IDESourceEditor24CodeRollDocumentLocation.h */,
+				87FA225920DB8B02004A5338 /* _TtC15IDESourceEditorP33_D9F7DEA52371DE60B1D00820C5602ED419TextAnnotationLayer.h */,
+				87FA225A20DB8B02004A5338 /* IDEComparisonEditorScrollerAreaView-Protocol.h */,
+				87FA225B20DB8B02004A5338 /* _TtC15IDESourceEditor45SourceCodeInvocationGeniusResultNavigableItem.h */,
+				87FA225C20DB8B02004A5338 /* _TtC15IDESourceEditor41IDEVersionEditorPrivateSourceCodeDocument.h */,
+				87FA225D20DB8B02004A5338 /* _TtC15IDESourceEditorP33_D9F7DEA52371DE60B1D00820C5602ED425BreakpointAnnotationLayer.h */,
+				87FA225E20DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor1.h */,
+				87FA225F20DB8B02004A5338 /* _TtC15IDESourceEditor19RefactoringDelegate.h */,
+				87FA226020DB8B02004A5338 /* _TtC15IDESourceEditor12ChangeGutter.h */,
+				87FA226120DB8B02004A5338 /* _TtC15IDESourceEditor15RenameOperation.h */,
+				87FA226220DB8B02004A5338 /* _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D29ChangeGutterMarginContentView.h */,
+				87FA226320DB8B02004A5338 /* NSTextStorageDelegate-Protocol.h */,
+				87FA226420DB8B02004A5338 /* DVTSourceLanguagePrimaryCompletionStrategy-Protocol.h */,
+				87FA226520DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor1.h */,
+				87FA226620DB8B02004A5338 /* __T012SourceEditor0aB4ViewCN-IDESourceEditor.h */,
+				87FA226720DB8B02004A5338 /* IDETestsInFileObserver-Protocol.h */,
+				87FA226820DB8B02004A5338 /* _TtC15IDESourceEditor24CrossLanguageRenameRules.h */,
+				87FA226920DB8B02004A5338 /* DVTCompletingTextViewDelegate-Protocol.h */,
+				87FA226A20DB8B02004A5338 /* _TtC15IDESourceEditor29CodeRollSymbolicEditSliceCell.h */,
+				87FA226B20DB8B02004A5338 /* IDEComparisonEditorHostContext-Protocol.h */,
+				87FA226C20DB8B02004A5338 /* _TtC15IDESourceEditor30SourceCodeQuickHelpDataContext.h */,
+				87FA226D20DB8B02004A5338 /* DVTSourceModelProvider-Protocol.h */,
+				87FA226E20DB8B02004A5338 /* DVTFileLiteralQuickEditViewControllerDelegate-Protocol.h */,
+				87FA226F20DB8B02004A5338 /* _TtC15IDESourceEditor33SourceCodeDiagnosticIssueProvider.h */,
+				87FA227020DB8B02004A5338 /* _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D11ChangeLayer.h */,
+				87FA227120DB8B02004A5338 /* IDECodeSnippetLibraryCompletionStrategy.h */,
+				87FA227220DB8B02004A5338 /* IDECodeSnippetCompletionScopeRowController.h */,
+				87FA227320DB8B02004A5338 /* DVTTextReplacable-Protocol.h */,
+				87FA227420DB8B02004A5338 /* IDECodeSnippetRepository.h */,
+				87FA227520DB8B02004A5338 /* _TtC15IDESourceEditor37AutoLayoutSyncedControllerContentView.h */,
+				87FA227620DB8B02004A5338 /* _TtCC15IDESourceEditor19IDESourceEditorViewP33_373B789CDC21EB66DE67A005A575163736SwiftTrickingCancelHoldingClassThing.h */,
+				87FA227720DB8B02004A5338 /* IDETestingSelection-Protocol.h */,
+				87FA227820DB8B02004A5338 /* DVTTextInsertionPointLocator-Protocol.h */,
+				87FA227920DB8B02004A5338 /* _TtC15IDESourceEditor27JumpToCallersActionMenuItem.h */,
+				87FA227A20DB8B02004A5338 /* _TtC15IDESourceEditor26SourceTagNavigationHandler.h */,
+				87FA227B20DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument.h */,
+				87FA227C20DB8B02004A5338 /* DVTTextStorageDelegate-Protocol.h */,
+				87FA227D20DB8B02004A5338 /* _TtC15IDESourceEditor30CodeRollSourceEditorScrollView.h */,
+				87FA227E20DB8B02004A5338 /* IDESourceKitRefactoringEdit-Protocol.h */,
+				87FA227F20DB8B02004A5338 /* _TtC15IDESourceEditorP33_3D16E535F05923485BACC5F644BB596242SourceCodeDocumentLanguageServiceExtension.h */,
+				87FA228020DB8B02004A5338 /* _TtC15IDESourceEditor15CodeRollNavItem.h */,
+				87FA228120DB8B02004A5338 /* IDESingleFileCommandSupportingEditor-Protocol.h */,
+				87FA228220DB8B02004A5338 /* _TtC15IDESourceEditor17RefactoringResult.h */,
+				87FA228320DB8B02004A5338 /* IDECodeSnippetCompletionItem.h */,
+				87FA228420DB8B02004A5338 /* IDEMediaLibraryDelegate-Protocol.h */,
+				87FA228520DB8B02004A5338 /* _TtC15IDESourceEditor34SourceCodeIndexGeniusResultsFinder.h */,
+				87FA228620DB8B02004A5338 /* __T012SourceEditor0aB11ContentViewCN-IDESourceEditor.h */,
+				87FA228720DB8B02004A5338 /* _TtC15IDESourceEditor15FlippedClipView.h */,
+				87FA228820DB8B02004A5338 /* IDESourceKitRefactoringDelegate-Protocol.h */,
+				87FA228920DB8B02004A5338 /* _TtC15IDESourceEditor19CodeRollNavItemRoot.h */,
+				87FA228A20DB8B02004A5338 /* IDETestObserver-Protocol.h */,
+				87FA228B20DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor2.h */,
+				87FA228C20DB8B02004A5338 /* DVTCancellable-Protocol.h */,
+				87FA228D20DB8B02004A5338 /* IDEIssueLogDataSource-Protocol.h */,
+				87FA228E20DB8B02004A5338 /* SourceCodeAdjustNodeTypesRequest.h */,
+				87FA228F20DB8B02004A5338 /* IDESourceKitUnhandledURLSymbolInfo-IDESourceEditor.h */,
+				87FA229020DB8B02004A5338 /* DVTInvalidation-Protocol.h */,
+				87FA229120DB8B02004A5338 /* _TtC15IDESourceEditor43SourceCodeCallersCalleesGeniusResultsFinder.h */,
+				87FA229220DB8B02004A5338 /* IDEQuickHelpDataContext-Protocol.h */,
+				87FA229320DB8B02004A5338 /* _TtC15IDESourceEditor31StructuredEditingActionMenuItem.h */,
+				87FA229420DB8B02004A5338 /* _TtC15IDESourceEditor21CodeRollFileReference.h */,
+				87FA229520DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor2.h */,
+				87FA229620DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor.h */,
+				87FA229720DB8B02004A5338 /* _TtC15IDESourceEditorP33_93442D23FB9091BE5367B1441DFDFFEA23StaticAnalyzerStepLayer.h */,
+				87FA229820DB8B02004A5338 /* _TtC15IDESourceEditor25CodeRollSymbolicEditSlice.h */,
+				87FA229920DB8B02004A5338 /* DVTSourceTextViewDelegate-Protocol.h */,
+				87FA229A20DB8B02004A5338 /* NSTableViewDataSource-Protocol.h */,
+				87FA229B20DB8B02004A5338 /* IDERenameRefactoringChange-Protocol.h */,
+				87FA229C20DB8B02004A5338 /* _TtC15IDESourceEditor14CodeRollEditor.h */,
+				87FA229D20DB8B02004A5338 /* _TtC15IDESourceEditor11RenameLabel.h */,
+				87FA229E20DB8B02004A5338 /* NSTableViewDelegate-Protocol.h */,
+				87FA229F20DB8B02004A5338 /* DVTCharacterRangeFrameConverter-Protocol.h */,
+				87FA22A020DB8B02004A5338 /* IDECodeSnippet.h */,
+				87FA22A120DB8B02004A5338 /* DVTSourceEditorFindPatternPanel-Protocol.h */,
+				87FA22A220DB8B02004A5338 /* DVTTextDocumentLocationCharacterRangeConverter-Protocol.h */,
+				87FA22A320DB8B02004A5338 /* DVTSourceExpressionSource-Protocol.h */,
+				87FA22A420DB8B02004A5338 /* IDECodeSnippetCompletionItemInfoViewController.h */,
+				87FA22A520DB8B02004A5338 /* IDESelectionSource-Protocol.h */,
+				87FA22A620DB8B02004A5338 /* DVTMarkedScrollerDelegate-Protocol.h */,
+				87FA22A720DB8B02004A5338 /* IDECodeLibraryLegacyDetailController.h */,
+				87FA22A820DB8B02004A5338 /* IDECodeSnippetLibraryPlatformFamilyValueTransformer.h */,
+				87FA22A920DB8B02004A5338 /* NSMenuDelegate-Protocol.h */,
+				87FA22AA20DB8B02004A5338 /* IDESourceControlWorkingCopyObserver-Protocol.h */,
+				87FA22AB20DB8B02004A5338 /* _TtC15IDESourceEditor16SourceCodeEditor.h */,
+				87FA22AC20DB8B02004A5338 /* _TtC15IDESourceEditor30JumpToDefinitionActionMenuItem.h */,
+				87FA22AD20DB8B02004A5338 /* _TtC15IDESourceEditor39StructuredSelectionActionMenuController.h */,
+				87FA22AE20DB8B02004A5338 /* _TtP9DVTMarkup28PlaygroundMarkupViewDelegate_-Protocol.h */,
+				87FA22AF20DB8B02004A5338 /* _TtC15IDESourceEditor20RenameTransformation.h */,
+				87FA22B020DB8B02004A5338 /* IDEDocumentStructureProviding-Protocol.h */,
+				87FA22B120DB8B02004A5338 /* IDESourceKitRenameRangeGroup-Protocol.h */,
+				87FA22B220DB8B02004A5338 /* IDESourceKitRefactoringFileRenameRanges-Protocol.h */,
+				87FA22B320DB8B02004A5338 /* _TtC15IDESourceEditorP33_7E074BCA936D0EABA73257D5271D839D22ChangeGutterMarginView.h */,
+				87FA22B420DB8B02004A5338 /* _TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor.h */,
+				87FA22B520DB8B02004A5338 /* DVTSourceCodeComparisonTextView-Protocol.h */,
+				87FA22B620DB8B02004A5338 /* _TtC15IDESourceEditorP33_CFC320F47CD995772665919FCD2902BC30ScrollAvoidingSubstitutionView.h */,
+				87FA22B720DB8B02004A5338 /* _TtC15IDESourceEditor25RefactoringActionMenuItem.h */,
+				87FA22B820DB8B02004A5338 /* IDECodeSnippetCompletionScopeRowValue.h */,
+				87FA22B920DB8B02004A5338 /* CDStructures.h */,
+				87FA22BA20DB8B02004A5338 /* IDETestablesObserver-Protocol.h */,
+				87FA22BB20DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor3.h */,
+				87FA22BC20DB8B02004A5338 /* DVTTextAnnotationDisplayDelegate-Protocol.h */,
+				87FA22BD20DB8B02004A5338 /* IDECodeLibraryDetailController.h */,
+				87FA22BE20DB8B02004A5338 /* _TtC15IDESourceEditor16CodeRollDocument.h */,
+				87FA22BF20DB8B02004A5338 /* _TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor2.h */,
+				87FA22C020DB8B02004A5338 /* IDESourceKitAvailableRefactoring-Protocol.h */,
+				87FA22C120DB8B02004A5338 /* IDESourceExpressionSource-Protocol.h */,
+				87FA22C220DB8B02004A5338 /* IDESourceKitRenameRange-Protocol.h */,
+				87FA22C320DB8B02004A5338 /* IDENoteAnnotationExplorableItem-Protocol.h */,
+				87FA22C420DB8B02004A5338 /* IDESourceControlBlameForLineEditorDataSource-Protocol.h */,
+				87FA22C520DB8B02004A5338 /* IDEAnalyzerResultsHostingEditor-Protocol.h */,
+				87FA22C620DB8B02004A5338 /* IDEIndexable-Protocol.h */,
+				87FA22C720DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor3.h */,
+				87FA22C820DB8B02004A5338 /* _TtC15IDESourceEditor24NavigationActionMenuItem.h */,
+				87FA22C920DB8B02004A5338 /* NSTextViewDelegate-Protocol.h */,
+				87FA22CA20DB8B02004A5338 /* NSPathCellDelegate-Protocol.h */,
+				87FA22CB20DB8B02004A5338 /* IDERefactoringTransformation-Protocol.h */,
+				87FA22CC20DB8B02004A5338 /* SourceCodeAdjustNodeTypesResult.h */,
+				87FA22CD20DB8B02004A5338 /* IDEPathCellDelegate-Protocol.h */,
+				87FA22CE20DB8B02004A5338 /* NSTextDelegate-Protocol.h */,
+				87FA22CF20DB8B02004A5338 /* _TtC15IDESourceEditorP33_E44BFBDE090BC90056BC41FC200A6A7040PathTokenVisualizationDataSourceObserver.h */,
+				87FA22D020DB8B02004A5338 /* DVTTextCompletionItem-Protocol.h */,
+				87FA22D120DB8B02004A5338 /* DVTUndo-Protocol.h */,
+				87FA22D220DB8B02004A5338 /* _TtC15IDESourceEditor21CodeRollFileNameSlice.h */,
+				87FA22D320DB8B02004A5338 /* QuickHelpForceTouchController.h */,
+				87FA22D420DB8B02004A5338 /* DVTColorLiteralQuickEditViewControllerDelegate-Protocol.h */,
+				87FA22D520DB8B02004A5338 /* _TtC15IDESourceEditor21RefactoringController.h */,
+				87FA22D620DB8B02004A5338 /* DVTSourceCodeLanguageEditorView-Protocol.h */,
+				87FA22D720DB8B02004A5338 /* SourceEditorPathTokenLayer.h */,
+				87FA22D820DB8B02004A5338 /* DVTSourceCodeComparisonTextEditorView-Protocol.h */,
+				87FA22D920DB8B02004A5338 /* _TtC15IDESourceEditorP33_51980A944E37C09F475AE6788DE7E47F31SourceCodeTestClassGeniusResult.h */,
+				87FA22DA20DB8B02004A5338 /* _TtC15IDESourceEditor17CodeRollFileSlice.h */,
+				87FA22DB20DB8B02004A5338 /* _TtC15IDESourceEditor20EmbeddableScrollView.h */,
+				87FA22DC20DB8B02004A5338 /* IDEKeyDrivenNavigableItemRepresentedObject-Protocol.h */,
+				87FA22DD20DB8B02004A5338 /* _TtC15IDESourceEditor22PathTokenVisualization.h */,
+				87FA22DE20DB8B02004A5338 /* IDEBuildable-Protocol.h */,
+				87FA22DF20DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView-IDESourceEditor4.h */,
+				87FA22E020DB8B02004A5338 /* IDESourceCodeGenerationDestination-Protocol.h */,
+				87FA22E120DB8B02004A5338 /* _TtC15IDESourceEditor19IDESourceEditorView.h */,
+				87FA22E220DB8B02004A5338 /* DVTSourceControlCancellable-Protocol.h */,
+				87FA22E320DB8B02004A5338 /* _TtC15IDESourceEditor31StaticAnalyzerStepVisualization.h */,
+				87FA22E420DB8B02004A5338 /* NSControlTextEditingDelegate-Protocol.h */,
+				87FA22E520DB8B02004A5338 /* NSObject-Protocol.h */,
+				87FA22E620DB8B02004A5338 /* _TtC15IDESourceEditor37IDECodeLibraryPegasusDetailController.h */,
+				87FA22E720DB8B02004A5338 /* IDESourceKitRefactoringFileEdits-Protocol.h */,
+				87FA22E820DB8B02004A5338 /* DVTSourceLandmarkItemContainer-Protocol.h */,
+				87FA22E920DB8B02004A5338 /* _TtC15IDESourceEditor23CodeRollNavItemProvider.h */,
+				87FA22EA20DB8B02004A5338 /* _TtC15IDESourceEditor25CodeRollSymbolicFileSlice.h */,
+				87FA22EB20DB8B02004A5338 /* DVTSourceEditorViewProtocol-Protocol.h */,
+				87FA22EC20DB8B02004A5338 /* _TtC15IDESourceEditor23CodeRollSourceFileSlice.h */,
+				87FA22ED20DB8B02004A5338 /* IDEIndexCompatibleDocumentLocationConverter-Protocol.h */,
+				87FA22EE20DB8B02004A5338 /* _TtC15IDESourceEditor16SourceCodeEditor-IDESourceEditor1.h */,
+				87FA22EF20DB8B02004A5338 /* _TtC15IDESourceEditor23RefactoringRenameResult.h */,
+				87FA22F020DB8B02004A5338 /* NSCopying-Protocol.h */,
+				87FA22F120DB8B02004A5338 /* IDEJumpToLineDestination-Protocol.h */,
+				87FA22F220DB8B02004A5338 /* IDEBlueprint-Protocol.h */,
+				87FA22F320DB8B02004A5338 /* IDEQuickHelpDataContextService-Protocol.h */,
+				87FA22F420DB8B02004A5338 /* IDELocalAnnotationHostingEditor-Protocol.h */,
+				87FA22F520DB8B02004A5338 /* DVTDiffSessionObserver-Protocol.h */,
+				87FA22F620DB8B02004A5338 /* _IDECodeSnippetLibraryAllPlatformsPlaceholder.h */,
+				87FA22F720DB8B02004A5338 /* _TtC15IDESourceEditor18SourceCodeDocument-IDESourceEditor4.h */,
+				87FA22F820DB8B02004A5338 /* _TtC15IDESourceEditor39SourceCodeEditorLocalAnnotationProvider.h */,
+				87FA22F920DB8B02004A5338 /* CALayerDelegate-Protocol.h */,
+				87FA22FA20DB8B02004A5338 /* _TtC15IDESourceEditor29SourceCodeEditorContainerView.h */,
+				87FA22FB20DB8B02004A5338 /* SourceEditorPathTokenLayerDelegate-Protocol.h */,
+				87FA22FC20DB8B02004A5338 /* DVTLineRangeCharacterRangeConverter-Protocol.h */,
+				87FA22FD20DB8B02004A5338 /* IDESourceCodeDocument-Protocol.h */,
+				87FA22FE20DB8B02004A5338 /* DVTImageLiteralQuickEditViewControllerDelegate-Protocol.h */,
+				87FA22FF20DB8B02004A5338 /* IDECodeSnippetLibrary.h */,
+				87FA230020DB8B02004A5338 /* _TtC15IDESourceEditor18CodeRollLoadingRow.h */,
+				87FA230120DB8B02004A5338 /* DVTTextCompletionSupportingTextView-Protocol.h */,
+				87FA230220DB8B02004A5338 /* NSImmediateActionAnimationController-Protocol.h */,
+				87FA230320DB8B02004A5338 /* NSTouchBarDelegate-Protocol.h */,
+			);
+			path = IDESourceEditor;
+			sourceTree = "<group>";
+		};
+		87FA230420DB8B02004A5338 /* SourceEditor */ = {
+			isa = PBXGroup;
+			children = (
+				87FA230520DB8B02004A5338 /* _TtC12SourceEditor28SourceEditorTextReplaceField.h */,
+				87FA230620DB8B02004A5338 /* _TtC12SourceEditor30AddDefaultCaseEditingOperation.h */,
+				87FA230720DB8B02004A5338 /* _TtC12SourceEditor19TextFindableDisplay.h */,
+				87FA230820DB8B02004A5338 /* _TtC12SourceEditor27ContextualMenuEventConsumer.h */,
+				87FA230920DB8B02004A5338 /* _TtC12SourceEditorP33_E53694DE114CF52172E44FB14EB48E6A25JournalDataSourceObserver.h */,
+				87FA230A20DB8B02004A5338 /* _TtC12SourceEditor8KillRing.h */,
+				87FA230B20DB8B02004A5338 /* _TtC12SourceEditor21SourceEditorPrintView.h */,
+				87FA230C20DB8B02004A5338 /* _TtC12SourceEditor24ReplaceTextUndoOperation.h */,
+				87FA230D20DB8B02004A5338 /* _TtC12SourceEditor25AddElseIfEditingOperation.h */,
+				87FA230E20DB8B02004A5338 /* _TtC12SourceEditorP33_E68868DFB6818CF6DA7B0616B355D17318CoverageRibbonView.h */,
+				87FA230F20DB8B02004A5338 /* _TtCC12SourceEditor23SourceEditorContentViewP33_AAA9EA6202C5955DAA98C4EF8563AD2F15ContentSublayer.h */,
+				87FA231020DB8B02004A5338 /* _TtC12SourceEditor16PlaceholderLayer.h */,
+				87FA231120DB8B02004A5338 /* _TtC12SourceEditor11CursorLayer.h */,
+				87FA231220DB8B02004A5338 /* _TtC12SourceEditor31SourceEditorRangeHighlightLayer.h */,
+				87FA231320DB8B02004A5338 /* _TtC12SourceEditor51SourceEditorLineAnnotationCategoryControlBorderView.h */,
+				87FA231420DB8B02004A5338 /* _TtC12SourceEditor35ActiveLineHighlightOverrideProvider.h */,
+				87FA231520DB8B02004A5338 /* _TtC12SourceEditor37TextFindableAttributeOverrideProvider.h */,
+				87FA231620DB8B02004A5338 /* _TtC12SourceEditor43LanguageServiceContentGenerationCoordinator.h */,
+				87FA231720DB8B02004A5338 /* _TtC12SourceEditor29IndentSelectionCommandHandler.h */,
+				87FA231820DB8B02004A5338 /* _TtC12SourceEditor29BracketResizeEditingOperation.h */,
+				87FA231920DB8B02004A5338 /* _TtC12SourceEditor29DefaultSourceEditorColorTheme.h */,
+				87FA231A20DB8B02004A5338 /* _TtC12SourceEditor26AddElementEditingOperation.h */,
+				87FA231B20DB8B02004A5338 /* _TtCC12SourceEditor27RangePopLayoutVisualization8RangePop.h */,
+				87FA231C20DB8B02004A5338 /* _TtCCV12SourceEditor26SourceEditorLineAnnotation6Action6Button.h */,
+				87FA231D20DB8B02004A5338 /* _TtC12SourceEditor19DynamicAnimatorType.h */,
+				87FA231E20DB8B02004A5338 /* _TtC12SourceEditor25SourceEditorTextFindField.h */,
+				87FA231F20DB8B02004A5338 /* PGERunDelegateWrapper-Protocol.h */,
+				87FA232020DB8B02004A5338 /* _TtC12SourceEditorP33_6AAF9036FDAD54AA2877FB53CEF23B318RollView.h */,
+				87FA232120DB8B02004A5338 /* _TtC12SourceEditor25AddMethodEditingOperation.h */,
+				87FA232220DB8B02004A5338 /* _TtC12SourceEditor28SourceEditorGutterMarginView.h */,
+				87FA232320DB8B02004A5338 /* _TtC12SourceEditor35SourceEditorGutterMarginContentView.h */,
+				87FA232420DB8B02004A5338 /* _TtC12SourceEditorP33_8A34A44A3A81F5AC1210A0E6DECBF3AB31LayoutManagerDataSourceObserver.h */,
+				87FA232520DB8B02004A5338 /* _TtC12SourceEditor22TextFindTextButtonCell.h */,
+				87FA232620DB8B02004A5338 /* PegPatternString.h */,
+				87FA232720DB8B02004A5338 /* _TtC12SourceEditor23AddElseEditingOperation.h */,
+				87FA232820DB8B02004A5338 /* _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2738SourceEditorLineAnnotationDropdownItem.h */,
+				87FA232920DB8B02004A5338 /* _TtC12SourceEditor36SourceEditorCodeCompletionController.h */,
+				87FA232A20DB8B02004A5338 /* _TtCC12SourceEditor20ActionMenuControllerP33_7BD8C7A954834164802CF40D70281F817Context.h */,
+				87FA232B20DB8B02004A5338 /* _TtC12SourceEditor39SourceEditorMultipleSelectionController.h */,
+				87FA232C20DB8B02004A5338 /* _TtC12SourceEditor30SourceEditorViewDraggingSource.h */,
+				87FA232D20DB8B02004A5338 /* _TtC12SourceEditorP33_E68868DFB6818CF6DA7B0616B355D17316NoAnimationLayer.h */,
+				87FA232E20DB8B02004A5338 /* _TtC12SourceEditor26MoveLineDownCommandHandler.h */,
+				87FA232F20DB8B02004A5338 /* _TtC12SourceEditor32SourceEditorTextReplaceFieldCell.h */,
+				87FA233020DB8B02004A5338 /* _TtC12SourceEditor18SourceEditorGutter.h */,
+				87FA233120DB8B02004A5338 /* _TtC12SourceEditor32TrimTrailingWhitespaceController.h */,
+				87FA233220DB8B02004A5338 /* _TtC12SourceEditor26StructuredSelectionDisplay.h */,
+				87FA233320DB8B02004A5338 /* _TtC12SourceEditor22DisplayLinkedAnimation.h */,
+				87FA233420DB8B02004A5338 /* _TtC12SourceEditor18LineHighlightLayer.h */,
+				87FA233520DB8B02004A5338 /* _TtC12SourceEditor22SourceEditorDataSource.h */,
+				87FA233620DB8B02004A5338 /* _TtC12SourceEditor24PlaceholderVisualization.h */,
+				87FA233720DB8B02004A5338 /* _TtC12SourceEditor30SourceEditorLineAnnotationView.h */,
+				87FA233820DB8B02004A5338 /* _TtC12SourceEditor18DelimiterHighlight.h */,
+				87FA233920DB8B02004A5338 /* _TtC12SourceEditor28AddParameterEditingOperation.h */,
+				87FA233A20DB8B02004A5338 /* _TtC12SourceEditor23SourceEditorUndoManager.h */,
+				87FA233B20DB8B02004A5338 /* _TtC12SourceEditor25CodeCoverageVisualization.h */,
+				87FA233C20DB8B02004A5338 /* _TtC12SourceEditor14SelectionLayer.h */,
+				87FA233D20DB8B02004A5338 /* _TtC12SourceEditor23SourceEditorContentView.h */,
+				87FA233E20DB8B02004A5338 /* _TtC12SourceEditor28AdjustClosingBraceEditAssist.h */,
+				87FA233F20DB8B02004A5338 /* _TtC12SourceEditor27RangePopLayoutVisualization.h */,
+				87FA234020DB8B02004A5338 /* _TtC12SourceEditor21PerformanceLogSession.h */,
+				87FA234120DB8B02004A5338 /* _TtC12SourceEditor23SourceEditorCodeSnippet.h */,
+				87FA234220DB8B02004A5338 /* _TtC12SourceEditor30AutoEncloseDelimiterEditAssist.h */,
+				87FA234320DB8B02004A5338 /* _TtC12SourceEditor24InsertTextCommandHandler.h */,
+				87FA234420DB8B02004A5338 /* _TtC12SourceEditor22GenericLanguageService.h */,
+				87FA234520DB8B02004A5338 /* PGERunDelegateWrapperImpl.h */,
+				87FA234620DB8B02004A5338 /* _TtC12SourceEditor30SourceEditorInlineLozengeLayer.h */,
+				87FA234720DB8B02004A5338 /* _TtC12SourceEditor32SourceEditorKVOFeatureController.h */,
+				87FA234820DB8B02004A5338 /* _TtC12SourceEditor25FoldableRegionContextView.h */,
+				87FA234920DB8B02004A5338 /* _TtC12SourceEditor45SourceEditorLineAnnotationDropdownShadowSpecs.h */,
+				87FA234A20DB8B02004A5338 /* _TtC12SourceEditorP33_F4E0FDEBDAE4300D9964F2BC65F7909735CursorTextAttributeOverrideProvider.h */,
+				87FA234B20DB8B02004A5338 /* _TtC12SourceEditor21ActionMenuFilterField.h */,
+				87FA234C20DB8B02004A5338 /* SourceEditorScrollView.h */,
+				87FA234D20DB8B02004A5338 /* _TtCC12SourceEditorP33_7AFBC303C5A816C40636AEF2F174C33D32StructuredSelectionVisualization20LonzengeHostingLayer.h */,
+				87FA234E20DB8B02004A5338 /* _TtC12SourceEditor44SourceEditorLineAnnotationDropdownColorSpecs.h */,
+				87FA234F20DB8B02004A5338 /* NSTableViewDataSource-Protocol.h */,
+				87FA235020DB8B02004A5338 /* _TtC12SourceEditor22ViewportLayoutStrategy.h */,
+				87FA235120DB8B02004A5338 /* _TtC12SourceEditor37SourceEditorLineAnnotationContentView.h */,
+				87FA235220DB8B02004A5338 /* _TtCC12SourceEditor41SourceEditorLineAnnotationCategoryControl15CategoryControl.h */,
+				87FA235320DB8B02004A5338 /* _TtC12SourceEditor37SourceEditorLineAnnotationLayoutSpecs.h */,
+				87FA235420DB8B02004A5338 /* NSDraggingSource-Protocol.h */,
+				87FA235520DB8B02004A5338 /* _TtC12SourceEditor33SourceEditorMouseSelectionSession.h */,
+				87FA235620DB8B02004A5338 /* NSTableViewDelegate-Protocol.h */,
+				87FA235720DB8B02004A5338 /* _TtC12SourceEditor20ClosureUndoOperation.h */,
+				87FA235820DB8B02004A5338 /* _TtC12SourceEditor18CoverageCountLayer.h */,
+				87FA235920DB8B02004A5338 /* _TtC12SourceEditor29SourceEditorDiagnosticManager.h */,
+				87FA235A20DB8B02004A5338 /* _TtC12SourceEditorP33_DEA745017783AC8E6419858AD5CE388D35FoldingControllerDataSourceObserver.h */,
+				87FA235B20DB8B02004A5338 /* _TtC12SourceEditor34SwiftColorLiteralDraggingExtension.h */,
+				87FA235C20DB8B02004A5338 /* _TtC12SourceEditor19DynamicBehaviorType.h */,
+				87FA235D20DB8B02004A5338 /* _TtC12SourceEditor16CommandInterface.h */,
+				87FA235E20DB8B02004A5338 /* NSCollectionViewDelegate-Protocol.h */,
+				87FA235F20DB8B02004A5338 /* _TtC12SourceEditor19SourceEditorJournal.h */,
+				87FA236020DB8B02004A5338 /* _TtC12SourceEditor28PageGuideLayoutVisualization.h */,
+				87FA236120DB8B02004A5338 /* _TtC12SourceEditor24SourceEditorLozengeLayer.h */,
+				87FA236220DB8B02004A5338 /* _TtC12SourceEditor51SourceEditorLineAnnotationCategoryControlCountLabel.h */,
+				87FA236320DB8B02004A5338 /* _TtC12SourceEditor28DefaultSourceEditorFontTheme.h */,
+				87FA236420DB8B02004A5338 /* ActionMenuDivider.h */,
+				87FA236520DB8B02004A5338 /* _TtC12SourceEditor21SourceEditorLineLayer.h */,
+				87FA236620DB8B02004A5338 /* NSPopover-PegasusSPI.h */,
+				87FA236720DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorLineAnnotationDropdown.h */,
+				87FA236820DB8B02004A5338 /* NSCollectionViewDataSource-Protocol.h */,
+				87FA236920DB8B02004A5338 /* _TtC12SourceEditor23SelectedSymbolHighlight.h */,
+				87FA236A20DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor2.h */,
+				87FA236B20DB8B02004A5338 /* NSCursor-NSCursorAdditions.h */,
+				87FA236C20DB8B02004A5338 /* _TtC12SourceEditorP33_906B8C3F9316B92D2381F9B8D2DBE20C23SELocalizedStringAnchor.h */,
+				87FA236D20DB8B02004A5338 /* CAAction-Protocol.h */,
+				87FA236E20DB8B02004A5338 /* _TtC12SourceEditor18CodeRollController.h */,
+				87FA236F20DB8B02004A5338 /* _TtC12SourceEditor17FoldingController.h */,
+				87FA237020DB8B02004A5338 /* _TtC12SourceEditor20ActionMenuController.h */,
+				87FA237120DB8B02004A5338 /* NSCollectionViewDelegateFlowLayout-Protocol.h */,
+				87FA237220DB8B02004A5338 /* _TtC12SourceEditor36SourceEditorLineAnnotationColorSpecs.h */,
+				87FA237320DB8B02004A5338 /* _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2748SourceEditorLineAnnotationDropdownCollectionView.h */,
+				87FA237420DB8B02004A5338 /* CDStructures.h */,
+				87FA237520DB8B02004A5338 /* _TtC12SourceEditor14PerformanceLog.h */,
+				87FA237620DB8B02004A5338 /* _TtCC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2738SourceEditorLineAnnotationDropdownItem42SourceEditorLineAnnotationDropdownItemView.h */,
+				87FA237720DB8B02004A5338 /* _TtC12SourceEditor26ElidedLineSubstitutionView.h */,
+				87FA237820DB8B02004A5338 /* _TtC12SourceEditor25RenameLayoutVisualization.h */,
+				87FA237920DB8B02004A5338 /* _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2748SourceEditorLineAnnotationDropdownItemLayoutInfo.h */,
+				87FA237A20DB8B02004A5338 /* _TtC12SourceEditor19TimeoutContinuation.h */,
+				87FA237B20DB8B02004A5338 /* _TtCV12SourceEditor26SourceEditorLineAnnotation6Action.h */,
+				87FA237C20DB8B02004A5338 /* _TtC12SourceEditor17FoldableImageView.h */,
+				87FA237D20DB8B02004A5338 /* _TtC12SourceEditorP33_315818094C8932A943FC4C1323EF92C826DebuggingAnimationDelegate.h */,
+				87FA237E20DB8B02004A5338 /* _TtC12SourceEditor30ActionMenuLoadingTableCellView.h */,
+				87FA237F20DB8B02004A5338 /* _TtC12SourceEditorP33_2318AB98ECCA60F6DBCBF662C652774837SourceEditorDiagnosticProviderContext.h */,
+				87FA238020DB8B02004A5338 /* _TtC12SourceEditor20SourceEditorLineData.h */,
+				87FA238120DB8B02004A5338 /* _TtC12SourceEditor43SourceEditorLineAnnotationDropdownFontSpecs.h */,
+				87FA238220DB8B02004A5338 /* _TtC12SourceEditor25ActionMenuFilterFieldCell.h */,
+				87FA238320DB8B02004A5338 /* _TtC12SourceEditor20SourceEditorLandmark.h */,
+				87FA238420DB8B02004A5338 /* NSTextInputClient-Protocol.h */,
+				87FA238520DB8B02004A5338 /* _TtC12SourceEditor19TextFindPopUpButton.h */,
+				87FA238620DB8B02004A5338 /* _TtC12SourceEditor29GutterAnnotationAccessibility.h */,
+				87FA238720DB8B02004A5338 /* _TtC12SourceEditor34SwiftImageLiteralDraggingExtension.h */,
+				87FA238820DB8B02004A5338 /* _TtC12SourceEditor29AddReturnTypeEditingOperation.h */,
+				87FA238920DB8B02004A5338 /* _TtC12SourceEditor23TextFindPopUpButtonCell.h */,
+				87FA238A20DB8B02004A5338 /* _TtC12SourceEditor24CoreTypesetterLineLayout.h */,
+				87FA238B20DB8B02004A5338 /* NSPopoverDelegate-Protocol.h */,
+				87FA238C20DB8B02004A5338 /* _TtC12SourceEditor23AddCaseEditingOperation.h */,
+				87FA238D20DB8B02004A5338 /* _TtCC12SourceEditor23SelectedSymbolHighlight15SymbolHighlight.h */,
+				87FA238E20DB8B02004A5338 /* NSTextFieldDelegate-Protocol.h */,
+				87FA238F20DB8B02004A5338 /* _TtC12SourceEditor16SourceEditorView.h */,
+				87FA239020DB8B02004A5338 /* _TtC12SourceEditor19TextFindFieldEditor.h */,
+				87FA239120DB8B02004A5338 /* _TtC12SourceEditor37LanguageServiceCodeCompletionStrategy.h */,
+				87FA239220DB8B02004A5338 /* _TtC12SourceEditorP33_5B634B9DCDB55D6100C0DC388A389C2744SourceEditorLineAnnotationDropdownBackground.h */,
+				87FA239320DB8B02004A5338 /* _TtC12SourceEditor18TextFindTextButton.h */,
+				87FA239420DB8B02004A5338 /* _TtC12SourceEditor41SourceEditorNotificationFeatureController.h */,
+				87FA239520DB8B02004A5338 /* NSView-SourceEditor1.h */,
+				87FA239620DB8B02004A5338 /* _TtC12SourceEditor23ActionMenuTableCellView.h */,
+				87FA239720DB8B02004A5338 /* NSView-SourceEditor.h */,
+				87FA239820DB8B02004A5338 /* NSServicesMenuRequestor-Protocol.h */,
+				87FA239920DB8B02004A5338 /* _TtC12SourceEditor27AddPropertyEditingOperation.h */,
+				87FA239A20DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor1.h */,
+				87FA239B20DB8B02004A5338 /* _TtC12SourceEditor14ActionMenuItem.h */,
+				87FA239C20DB8B02004A5338 /* _TtC12SourceEditor13UndoOperation.h */,
+				87FA239D20DB8B02004A5338 /* NSControlTextEditingDelegate-Protocol.h */,
+				87FA239E20DB8B02004A5338 /* NSObject-Protocol.h */,
+				87FA239F20DB8B02004A5338 /* _TtC12SourceEditor45SourceEditorLineAnnotationDropdownLayoutSpecs.h */,
+				87FA23A020DB8B02004A5338 /* _TtC12SourceEditor37TextFindableResultLayoutVisualization.h */,
+				87FA23A120DB8B02004A5338 /* _TtCC12SourceEditor28SourceEditorGutterMarginView33SourceEditorGutterMarginViewLayer.h */,
+				87FA23A220DB8B02004A5338 /* _TtC12SourceEditor41SourceEditorLineAnnotationCategoryControl.h */,
+				87FA23A320DB8B02004A5338 /* _TtC12SourceEditor24MoveLineUpCommandHandler.h */,
+				87FA23A420DB8B02004A5338 /* _TtCC12SourceEditor34SourceEditorLineAnnotationDropdown39SourceEditorLineAnnotationDropdownLayer.h */,
+				87FA23A520DB8B02004A5338 /* _TtC12SourceEditor16RenameController.h */,
+				87FA23A620DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorFontSmoothingTextLayer.h */,
+				87FA23A720DB8B02004A5338 /* CAAnimationDelegate-Protocol.h */,
+				87FA23A820DB8B02004A5338 /* _TtP12SourceEditor34SourceEditorTextFindPanelFieldType_-Protocol.h */,
+				87FA23A920DB8B02004A5338 /* _TtC12SourceEditor34InvisibleCharactersOverlayProvider.h */,
+				87FA23AA20DB8B02004A5338 /* _TtC12SourceEditorP33_7AFBC303C5A816C40636AEF2F174C33D32StructuredSelectionVisualization.h */,
+				87FA23AB20DB8B02004A5338 /* _TtC12SourceEditor28SourceEditorSelectionDisplay.h */,
+				87FA23AC20DB8B02004A5338 /* _TtC12SourceEditor21ContinuationScheduler.h */,
+				87FA23AD20DB8B02004A5338 /* _TtC12SourceEditor23BasicDiagnosticProvider.h */,
+				87FA23AE20DB8B02004A5338 /* _TtCC12SourceEditor28PageGuideLayoutVisualizationP33_11450687FAF9AECE734138FEC5A56F7914PageGuideLayer.h */,
+				87FA23AF20DB8B02004A5338 /* PGERunDelegateWrapper.h */,
+				87FA23B020DB8B02004A5338 /* _TtC12SourceEditor18CoverageRangeLayer.h */,
+				87FA23B120DB8B02004A5338 /* _TtC12SourceEditor32LineHighlightLayoutVisualization.h */,
+				87FA23B220DB8B02004A5338 /* _TtC12SourceEditor18CoreTextLineLayout.h */,
+				87FA23B320DB8B02004A5338 /* _TtC12SourceEditor14PerformanceLog-SourceEditor.h */,
+				87FA23B420DB8B02004A5338 /* _TtC12SourceEditor51SourceEditorLineAnnotationDropdownLayoutAdjustments.h */,
+				87FA23B520DB8B02004A5338 /* _TtC12SourceEditor17TextFindPanelView.h */,
+				87FA23B620DB8B02004A5338 /* _TtC12SourceEditor33SourceEditorLineAnnotationManager.h */,
+				87FA23B720DB8B02004A5338 /* _TtC12SourceEditor25SourceEditorEditAssistant.h */,
+				87FA23B820DB8B02004A5338 /* _TtC12SourceEditor29SourceEditorTextSelectionRect.h */,
+				87FA23B920DB8B02004A5338 /* _TtC12SourceEditor29SourceEditorTextFindFieldCell.h */,
+				87FA23BA20DB8B02004A5338 /* _TtC12SourceEditor27StructuredEditingController.h */,
+				87FA23BB20DB8B02004A5338 /* _TtC12SourceEditor25SourceEditorLayoutManager.h */,
+				87FA23BC20DB8B02004A5338 /* _TtC12SourceEditor19ActionMenuTableView.h */,
+				87FA23BD20DB8B02004A5338 /* _TtC12SourceEditor26NavActionMenuTableCellView.h */,
+				87FA23BE20DB8B02004A5338 /* _TtP12SourceEditor15DynamicItemType_-Protocol.h */,
+				87FA23BF20DB8B02004A5338 /* _TtC12SourceEditorP33_F4E0FDEBDAE4300D9964F2BC65F7909738SelectionTextAttributeOverrideProvider.h */,
+				87FA23C020DB8B02004A5338 /* _TtC12SourceEditor31SourceEditorSelectionController.h */,
+				87FA23C120DB8B02004A5338 /* _TtC12SourceEditor14MultiOperation.h */,
+				87FA23C220DB8B02004A5338 /* _TtC12SourceEditor22RenameImageButtonLayer.h */,
+				87FA23C320DB8B02004A5338 /* CALayerDelegate-Protocol.h */,
+				87FA23C420DB8B02004A5338 /* _TtC12SourceEditor19TypingUndoOperation.h */,
+				87FA23C520DB8B02004A5338 /* _TtC12SourceEditor38SourceEditorGutterMarginBackgroundView.h */,
+				87FA23C620DB8B02004A5338 /* _TtC12SourceEditor28AutoCloseDelimiterEditAssist.h */,
+				87FA23C720DB8B02004A5338 /* _TtC12SourceEditor27LineAnnotationAccessibility.h */,
+				87FA23C820DB8B02004A5338 /* _TtC12SourceEditor22LayoutEffectController.h */,
+				87FA23C920DB8B02004A5338 /* _TtC12SourceEditor34SourceEditorLineAnnotationDropdown-SourceEditor.h */,
+				87FA23CA20DB8B02004A5338 /* _TtC12SourceEditor25SourceEditorTextFindPanel.h */,
+			);
+			path = SourceEditor;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

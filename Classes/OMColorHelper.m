@@ -10,6 +10,10 @@
 #import "OMPlainColorWell.h"
 #import "OMColorFrameView.h"
 
+// from XVim2
+// https://github.com/XVimProject/XVim2
+#import "_TtC15IDESourceEditor19IDESourceEditorView.h"
+
 #define kOMColorHelperHighlightingDisabled	@"OMColorHelperHighlightingDisabled"
 #define kOMColorHelperInsertionMode			@"OMColorHelperInsertionMode"
 
@@ -91,6 +95,206 @@
 	if (highlightingEnabled) {
 		[self activateColorHighlighting];
 	}
+    
+    //[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(check:) name:nil object:nil];
+}
+
+// for test
+- (void)check:(NSNotification *)notification
+{
+    //NSTextDidChangeNotification
+    //SourceEditorSelectedSourceRangeChangedNotification
+    
+    NSRange rang = [notification.name rangeOfString:@"Notification"];
+    
+    if (rang.length)
+    {
+
+        if ([notification.name isEqualToString:@"NSWindowDidResignKeyNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSWindowDidMoveNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSApplicationWillResignActiveNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSApplicationDidResignActiveNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSWindowDidBecomeKeyNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSWindowDidEndDraggingNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDEWorkspaceDocumentWillWriteStateDataNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSMenuDidRemoveItemNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSMenuDidRemoveAllItemsNotification"])
+        {
+            return;
+        }
+
+        
+        if ([notification.name isEqualToString:@"DVTDeveloperAccountsChangedNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDENavigableItemCoordinatorArrangedObjectGraphChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSOutlineViewSelectionDidChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"DVTWeakInterposerRepresentedObjectIsDeallocatingNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDEIndexDidChangeStateNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDEIndexDidChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDEBuildSchemeActionBuildablesDidChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDESchemeActionRunnableDidChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSBundleDidLoadNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"_NSThreadDidStartNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSThreadWillExitNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDENavigableItemCoordinatorObjectGraphChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDEControlGroupDidChangeNotificationName"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSSplitViewWillResizeSubviewsNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSSplitViewDidResizeSubviewsNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDENavigableItemCoordinatorWillForgetItemsNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDENavigableItemCoordinatorDidForgetItemsNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSFileHandleDataAvailableNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSMenuDidChangeItemNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSMenuDidAddItemNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSOutlineViewItemWillExpandNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSOutlineViewItemDidExpandNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSApplicationWillUpdateNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSApplicationDidUpdateNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"DVTModelObjectGraphDidCoalesceChangesNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDENavigableItemCoordinatorPropertyValuesChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"DVTModelObjectGraphWillCoalesceChangesNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSViewDidUpdateTrackingAreasNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSWindowDidUpdateNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"IDEIndexIsIndexingWorkspaceNotification"])
+        {
+            return;
+        }
+
+        if ([notification.name isEqualToString:@"NSUserDefaultsDidChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSTextInputContextKeyboardSelectionDidChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"NSViewFrameDidChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"DVTModelObjectGraphObjectsDidChangeNotificationName"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"DVTDeviceUsabilityDidChangeNotification"])
+        {
+            return;
+        }
+        if ([notification.name isEqualToString:@"DVTSourceExpressionUnderMouseDidChangeNotification"])
+        {
+            return;
+        }
+        NSLog(@"notification: %@", notification.name);
+    }
 }
 
 #pragma mark - Preferences
@@ -99,7 +303,7 @@
 {
 	if ([menuItem action] == @selector(insertColor:)) {
 		NSResponder *firstResponder = [[NSApp keyWindow] firstResponder];
-		return ([firstResponder isKindOfClass:NSClassFromString(@"DVTSourceTextView")] && [firstResponder isKindOfClass:[NSTextView class]]);
+        return ([firstResponder isKindOfClass:NSClassFromString(@"IDESourceEditor.IDESourceEditorView")]);
 	} else if ([menuItem action] == @selector(toggleColorHighlightingEnabled:)) {
 		BOOL enabled = [[NSUserDefaults standardUserDefaults] boolForKey:kOMColorHelperHighlightingDisabled];
 		[menuItem setState:enabled ? NSOffState : NSOnState];
@@ -135,18 +339,22 @@
 
 - (void)activateColorHighlighting
 {
-	[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(selectionDidChange:) name:NSTextViewDidChangeSelectionNotification object:nil];
-	if (!self.textView) {
-		NSResponder *firstResponder = [[NSApp keyWindow] firstResponder];
-		if ([firstResponder isKindOfClass:NSClassFromString(@"DVTSourceTextView")] && [firstResponder isKindOfClass:[NSTextView class]]) {
-			self.textView = (NSTextView *)firstResponder;
-		}
-	}
-	if (self.textView) {
-		NSNotification *notification = [NSNotification notificationWithName:NSTextViewDidChangeSelectionNotification object:self.textView];
-		[self selectionDidChange:notification];
-		
-	}
+    if (!self.textView) {
+        NSResponder *firstResponder = [[NSApp keyWindow] firstResponder];
+        if ([firstResponder isKindOfClass:NSClassFromString(@"IDESourceEditor.IDESourceEditorView")]) {
+                self.textView = (_TtC15IDESourceEditor19IDESourceEditorView *)firstResponder;
+        }
+    }
+    
+    if (self.textView)
+    {
+        NSNotification *notification = [NSNotification notificationWithName:NSTextDidChangeNotification object:self.textView];
+        [self selectionDidChange:notification];
+    }
+    else
+    {
+        [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(selectionDidChange:) name:nil object:nil];
+    }
 }
 
 - (void)deactivateColorHighlighting
@@ -162,8 +370,8 @@
 {
 	if (!self.textView) {
 		NSResponder *firstResponder = [[NSApp keyWindow] firstResponder];
-		if ([firstResponder isKindOfClass:NSClassFromString(@"DVTSourceTextView")] && [firstResponder isKindOfClass:[NSTextView class]]) {
-			self.textView = (NSTextView *)firstResponder;
+        if ([firstResponder isKindOfClass:NSClassFromString(@"IDESourceEditor.IDESourceEditorView")]) {
+            self.textView = (_TtC15IDESourceEditor19IDESourceEditorView *)firstResponder;
 		} else {
 			NSBeep();
 			return;
@@ -194,55 +402,134 @@
 
 - (void)selectionDidChange:(NSNotification *)notification
 {
-	if ([[notification object] isKindOfClass:NSClassFromString(@"DVTSourceTextView")] && [[notification object] isKindOfClass:[NSTextView class]]) {
-		self.textView = (NSTextView *)[notification object];
+    // NSScrollViewWillStartLiveScrollNotification
+    // 滚动事件
+    if ([notification.name isEqualToString:@"NSScrollViewWillStartLiveScrollNotification"])
+    {
+        [self dismissColorWell];
+        return;
+    }
+
+    // SourceEditorSelectedSourceRangeChangedNotification
+    // 光标移动
+    if (![notification.name isEqualToString:@"SourceEditorSelectedSourceRangeChangedNotification"])
+    {
+        return;
+    }
+    
+    NSView *view = [notification object];
+    NSString *clasName = view.className;
+    
+    if ([clasName isEqualToString:@"IDESourceEditor.IDESourceEditorView"])
+    {
+        for (NSView *sview in view.subviews)
+        {
+            NSString *clasName1 = sview.className;
+            NSLog(@"%@", clasName1);
+        }
+
+        self.textView = (_TtC15IDESourceEditor19IDESourceEditorView *)[notification object];
 		
 		BOOL disabled = [[NSUserDefaults standardUserDefaults] boolForKey:kOMColorHelperHighlightingDisabled];
 		if (disabled) return;
 		
-		NSArray *selectedRanges = [self.textView selectedRanges];
-		if (selectedRanges.count >= 1) {
-			NSRange selectedRange = [[selectedRanges objectAtIndex:0] rangeValue];
-			NSString *text = self.textView.textStorage.string;
-			NSRange lineRange = [text lineRangeForRange:selectedRange];
-			NSRange selectedRangeInLine = NSMakeRange(selectedRange.location - lineRange.location, selectedRange.length);
-			NSString *line = [text substringWithRange:lineRange];
-			
-			NSRange colorRange = NSMakeRange(NSNotFound, 0);
-			OMColorType colorType = OMColorTypeNone;
-			NSColor *matchedColor = [self colorInText:line selectedRange:selectedRangeInLine type:&colorType matchedRange:&colorRange];
-			
-			if (matchedColor) {
-				NSColor *backgroundColor = [self.textView.backgroundColor colorUsingColorSpace:[NSColorSpace genericRGBColorSpace]];
-				CGFloat r = 1.0; CGFloat g = 1.0; CGFloat b = 1.0;
-				[backgroundColor getRed:&r green:&g blue:&b alpha:NULL];
-				CGFloat backgroundLuminance = (r + g + b) / 3.0;
-								
-				NSColor *strokeColor = (backgroundLuminance > 0.5) ? [NSColor colorWithCalibratedWhite:0.2 alpha:1.0] : [NSColor whiteColor];
-				
-				self.selectedColorType = colorType;
-				self.colorWell.color = matchedColor;
-				self.colorWell.strokeColor = strokeColor;
-				
-				self.selectedColorRange = NSMakeRange(colorRange.location + lineRange.location, colorRange.length);
-				NSRect selectionRectOnScreen = [self.textView firstRectForCharacterRange:self.selectedColorRange];
-				NSRect selectionRectInWindow = [self.textView.window convertRectFromScreen:selectionRectOnScreen];
-				NSRect selectionRectInView = [self.textView convertRect:selectionRectInWindow fromView:nil];
-				NSRect colorWellRect = NSMakeRect(NSMaxX(selectionRectInView) - 49, NSMinY(selectionRectInView) - selectionRectInView.size.height - 2, 50, selectionRectInView.size.height + 2);
-				self.colorWell.frame = NSIntegralRect(colorWellRect);
-				[self.textView addSubview:self.colorWell];
-				self.colorFrameView.frame = NSInsetRect(NSIntegralRect(selectionRectInView), -1, -1);
-				
-				self.colorFrameView.color = strokeColor;
-				
-				[self.textView addSubview:self.colorFrameView];
-			} else {
-				[self dismissColorWell];
-			}
-		} else {
-			[self dismissColorWell];
-		}
+        NSRange selectedRange = [self.textView selectedRange]; //[[selectedRanges objectAtIndex:0] rangeValue];
+        NSString *text = self.textView.string;//self.textView.textStorage.string;
+            NSRange lineRange = [text lineRangeForRange:selectedRange];
+            NSRange selectedRangeInLine = NSMakeRange(selectedRange.location - lineRange.location, selectedRange.length);
+            NSString *line = [text substringWithRange:lineRange];
+        
+        if (line.length < 10)
+        {
+            [self dismissColorFrameView];
+            return;
+        }
+        
+        NSRange colorRange = NSMakeRange(NSNotFound, 0);
+        OMColorType colorType = OMColorTypeNone;
+        NSColor *matchedColor = [self colorInText:line selectedRange:selectedRangeInLine type:&colorType matchedRange:&colorRange];
+        
+        if (matchedColor) {
+            NSColor *bgColor = [NSColor colorWithCGColor:self.textView.layer.backgroundColor];
+            NSColor *backgroundColor = [bgColor colorUsingColorSpace:[NSColorSpace genericRGBColorSpace]];
+            CGFloat r = 1.0; CGFloat g = 1.0; CGFloat b = 1.0;
+            [backgroundColor getRed:&r green:&g blue:&b alpha:NULL];
+            CGFloat backgroundLuminance = (r + g + b) / 3.0;
+            
+            NSColor *strokeColor = (backgroundLuminance > 0.5) ? [NSColor colorWithCalibratedWhite:0.2 alpha:1.0] : [NSColor whiteColor];
+            
+            self.selectedColorType = colorType;
+            self.colorWell.color = matchedColor;
+            self.colorWell.strokeColor = strokeColor;
+            
+            self.selectedColorRange = NSMakeRange(colorRange.location + lineRange.location, colorRange.length);
+            NSRect selectionRectOnScreen = [self.textView firstRectForCharacterRange:self.selectedColorRange actualRange:nil]; //[self.textView firstRectForCharacterRange:self.selectedColorRange];
+            NSRect selectionRectInWindow = [self.textView.window convertRectFromScreen:selectionRectOnScreen];
+            NSRect selectionRectInView = [self.textView convertRect:selectionRectInWindow fromView:nil];
+            NSRect colorWellRect = NSMakeRect(NSMaxX(selectionRectInView) - 49, NSMinY(selectionRectInView) - selectionRectInView.size.height - 2, 50, selectionRectInView.size.height + 2);
+            self.colorWell.frame = NSIntegralRect(colorWellRect);
+            [self.textView addSubview:self.colorWell];
+            self.colorFrameView.frame = NSInsetRect(NSIntegralRect(selectionRectInView), -1, -1);
+            
+            self.colorFrameView.color = strokeColor;
+            
+            [self.textView addSubview:self.colorFrameView];
+        } else {
+            [self dismissColorWell];
+        }
 	}
+}
+
+/*
+NSArray *selectedRanges = [self.textView selectedRanges];
+if (selectedRanges.count >= 1) {
+    NSRange selectedRange = [[selectedRanges objectAtIndex:0] rangeValue];
+    NSString *text = self.textView.textStorage.string;
+    NSRange lineRange = [text lineRangeForRange:selectedRange];
+    NSRange selectedRangeInLine = NSMakeRange(selectedRange.location - lineRange.location, selectedRange.length);
+    NSString *line = [text substringWithRange:lineRange];
+    
+    NSRange colorRange = NSMakeRange(NSNotFound, 0);
+    OMColorType colorType = OMColorTypeNone;
+    NSColor *matchedColor = [self colorInText:line selectedRange:selectedRangeInLine type:&colorType matchedRange:&colorRange];
+    
+    if (matchedColor) {
+        NSColor *backgroundColor = [self.textView.backgroundColor colorUsingColorSpace:[NSColorSpace genericRGBColorSpace]];
+        CGFloat r = 1.0; CGFloat g = 1.0; CGFloat b = 1.0;
+        [backgroundColor getRed:&r green:&g blue:&b alpha:NULL];
+        CGFloat backgroundLuminance = (r + g + b) / 3.0;
+        
+        NSColor *strokeColor = (backgroundLuminance > 0.5) ? [NSColor colorWithCalibratedWhite:0.2 alpha:1.0] : [NSColor whiteColor];
+        
+        self.selectedColorType = colorType;
+        self.colorWell.color = matchedColor;
+        self.colorWell.strokeColor = strokeColor;
+        
+        self.selectedColorRange = NSMakeRange(colorRange.location + lineRange.location, colorRange.length);
+        NSRect selectionRectOnScreen = [self.textView firstRectForCharacterRange:self.selectedColorRange];
+        NSRect selectionRectInWindow = [self.textView.window convertRectFromScreen:selectionRectOnScreen];
+        NSRect selectionRectInView = [self.textView convertRect:selectionRectInWindow fromView:nil];
+        NSRect colorWellRect = NSMakeRect(NSMaxX(selectionRectInView) - 49, NSMinY(selectionRectInView) - selectionRectInView.size.height - 2, 50, selectionRectInView.size.height + 2);
+        self.colorWell.frame = NSIntegralRect(colorWellRect);
+        [self.textView addSubview:self.colorWell];
+        self.colorFrameView.frame = NSInsetRect(NSIntegralRect(selectionRectInView), -1, -1);
+        
+        self.colorFrameView.color = strokeColor;
+        
+        [self.textView addSubview:self.colorFrameView];
+    } else {
+        [self dismissColorWell];
+    }
+} else {
+    [self dismissColorWell];
+}
+*/
+
+- (void)dismissColorFrameView
+{
+    [self.colorFrameView removeFromSuperview];
+    self.selectedColorRange = NSMakeRange(NSNotFound, 0);
+    self.selectedColorType = OMColorTypeNone;
 }
 
 - (void)dismissColorWell
@@ -252,9 +539,8 @@
 		[[NSColorPanel sharedColorPanel] orderOut:nil];
 	}
 	[self.colorWell removeFromSuperview];
-	[self.colorFrameView removeFromSuperview];
-	self.selectedColorRange = NSMakeRange(NSNotFound, 0);
-	self.selectedColorType = OMColorTypeNone;
+    
+    [self dismissColorFrameView];
 }
 
 - (void)colorDidChange:(id)sender

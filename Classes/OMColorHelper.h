@@ -9,6 +9,8 @@
 #import <Foundation/Foundation.h>
 #import <AppKit/AppKit.h>
 
+@class _TtC15IDESourceEditor19IDESourceEditorView;
+
 typedef enum OMColorType {
 	OMColorTypeNone = 0,
 	
@@ -40,7 +42,7 @@ BOOL OMColorTypeIsNSColor(OMColorType colorType) { return colorType >= OMColorTy
 	OMColorFrameView *_colorFrameView;
 	NSRange _selectedColorRange;
 	OMColorType _selectedColorType;
-	NSTextView *_textView;
+	_TtC15IDESourceEditor19IDESourceEditorView *_textView;
 	NSDictionary *_constantColorsByName;
 	
 	NSRegularExpression *_rgbaUIColorRegex;
@@ -53,7 +55,7 @@ BOOL OMColorTypeIsNSColor(OMColorType colorType) { return colorType >= OMColorTy
 
 @property (nonatomic, strong) OMPlainColorWell *colorWell;
 @property (nonatomic, strong) OMColorFrameView *colorFrameView;
-@property (nonatomic, strong) NSTextView *textView;
+@property (nonatomic, strong) _TtC15IDESourceEditor19IDESourceEditorView *textView;
 @property (nonatomic, assign) NSRange selectedColorRange;
 @property (nonatomic, assign) OMColorType selectedColorType;
 
